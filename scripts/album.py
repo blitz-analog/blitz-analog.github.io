@@ -1,5 +1,8 @@
+import json
+
+import conf
 from photo import Photo
-import json, conf
+
 
 class Album():
     def __init__(self, path, name, root):

@@ -1,6 +1,8 @@
-import conf
 import os
+
 from PIL import Image, ImageDraw, ImageFont
+
+import conf
 
 
 class Photo():
@@ -66,7 +68,7 @@ class Photo():
     def mark_image(self, img, fontsize):
         width, height = img.size
         transparent_image = Image.new('RGBA', img.size, (255, 255, 255, 0))
-        font = ImageFont.truetype('./assets/font/' + conf.fontfamily, conf.fontsize)
+        font = ImageFont.load_default()#truetype('./assets/font/' + conf.fontfamily, conf.fontsize)
         draw = ImageDraw.Draw(transparent_image)
 
         t_size = font.getsize(conf.copyright)

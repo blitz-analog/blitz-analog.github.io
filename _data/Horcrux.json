@@ -5,8 +5,8 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2018",
+      "2020"
     ],
     "dict": {
       "2018": {
@@ -18,62 +18,45 @@
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "FaroeIslands"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "FaroeIslands": {
+              "name": "FaroeIslands",
               "type": "album",
               "root": 2,
               "parents": [
                 "2018",
-                "Hokkaido December"
+                "FaroeIslands"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
+              "path": "./_data/albums/2018-FaroeIslands.json",
               "no_sub_album": true
             }
           }
         }
       },
-      "2019": {
-        "name": "2019",
+      "2020": {
+        "name": "2020",
         "type": "album",
         "root": 1,
         "parents": [
-          "2019"
+          "2020"
         ],
         "items": {
           "order": [
-            "August"
+            "Shaye"
           ],
           "dict": {
-            "August": {
-              "name": "August",
+            "Shaye": {
+              "name": "Shaye",
               "type": "album",
               "root": 2,
               "parents": [
-                "2019",
-                "August"
+                "2020",
+                "Shaye"
               ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2019-August-Street.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
+              "path": "./_data/albums/2020-Shaye.json",
+              "no_sub_album": true
             }
           }
         }

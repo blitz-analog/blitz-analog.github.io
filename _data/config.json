@@ -1,106 +1,56 @@
 [
   {
-    "name": "Street",
+    "name": "FaroeIslands",
     "type": "photos",
     "parents": [
-      "2019",
-      "August",
-      "Street"
+      "2018",
+      "FaroeIslands"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
+        "width": 4536,
+        "height": 2937,
+        "path": "./photos/2018/FaroeIslands/Kodak5.jpg",
+        "min_path": "./photos/2018/FaroeIslands/Kodak5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
+        "width": 4531,
+        "height": 2984,
+        "path": "./photos/2018/FaroeIslands/Kodak18.jpg",
+        "min_path": "./photos/2018/FaroeIslands/Kodak18.min.jpg"
       }
     ]
   },
   {
-    "name": "Hokkaido December",
+    "name": "Shaye",
     "type": "photos",
     "parents": [
-      "2018",
-      "Hokkaido December"
+      "2020",
+      "Shaye"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
+        "width": 2950,
+        "height": 3933,
+        "path": "./photos/2020/Shaye/Image4.jpg",
+        "min_path": "./photos/2020/Shaye/Image4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
+        "width": 4525,
+        "height": 2984,
+        "path": "./photos/2020/Shaye/Image3.jpg",
+        "min_path": "./photos/2020/Shaye/Image3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "width": 4401,
+        "height": 2918,
+        "path": "./photos/2020/Shaye/Image2.jpg",
+        "min_path": "./photos/2020/Shaye/Image2.min.jpg"
       }
     ]
   }
