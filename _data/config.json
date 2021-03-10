@@ -1,25 +1,260 @@
 [
   {
-    "name": "FaroeIslands",
+    "name": "San Francisco",
     "type": "photos",
     "parents": [
-      "2018",
-      "FaroeIslands"
+      "Destinations",
+      "San Francisco"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1369_31A.jpeg",
+        "min_path": "./photos/Destinations/San Francisco/1369_31A.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1369_28A.jpeg",
+        "min_path": "./photos/Destinations/San Francisco/1369_28A.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1294_34A.jpeg",
+        "min_path": "./photos/Destinations/San Francisco/1294_34A.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1294_30A.jpeg",
+        "min_path": "./photos/Destinations/San Francisco/1294_30A.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1294_04A.jpeg",
+        "min_path": "./photos/Destinations/San Francisco/1294_04A.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1294_00A.jpeg",
+        "min_path": "./photos/Destinations/San Francisco/1294_00A.min.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Faroe Islands"
     ],
     "list": [
       {
         "type": "photo",
         "width": 4536,
         "height": 2937,
-        "path": "./photos/2018/FaroeIslands/Kodak5.jpg",
-        "min_path": "./photos/2018/FaroeIslands/Kodak5.min.jpg"
+        "path": "./photos/Destinations/Faroe Islands/Kodak5.jpeg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak5.min.jpeg"
       },
       {
         "type": "photo",
         "width": 4531,
         "height": 2984,
-        "path": "./photos/2018/FaroeIslands/Kodak18.jpg",
-        "min_path": "./photos/2018/FaroeIslands/Kodak18.min.jpg"
+        "path": "./photos/Destinations/Faroe Islands/Kodak18.jpeg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak18.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4501,
+        "height": 2958,
+        "path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.jpeg",
+        "min_path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2947,
+        "height": 4470,
+        "path": "./photos/Destinations/Faroe Islands/Image37.jpeg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image37.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2910,
+        "height": 4526,
+        "path": "./photos/Destinations/Faroe Islands/Image19.jpeg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image19.min.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "London",
+    "type": "photos",
+    "parents": [
+      "Photoshoots",
+      "Xander",
+      "London"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Photoshoots/Xander/London/000078900034.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078900034.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078900033.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078900033.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Photoshoots/Xander/London/000078900027.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078900027.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078890036.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890036.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Photoshoots/Xander/London/000078890035.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890035.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078890027.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890027.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078890025.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890025.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Photoshoots/Xander/London/000078890022.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890022.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078890018.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890018.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Photoshoots/Xander/London/000078890013.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890013.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Photoshoots/Xander/London/000078890012.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890012.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078890005.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890005.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Photoshoots/Xander/London/000078890004.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890004.min.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Sardinia",
+    "type": "photos",
+    "parents": [
+      "Photoshoots",
+      "Xander",
+      "Sardinia"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2940,
+        "height": 4549,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 2984,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 2970,
+        "height": 4552,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4573,
+        "height": 3008,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4551,
+        "height": 2964,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4517,
+        "height": 2991,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.min.jpeg"
+      },
+      {
+        "type": "photo",
+        "width": 4556,
+        "height": 2995,
+        "path": "./photos/Photoshoots/Xander/Sardinia/Image36.jpeg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Image36.min.jpeg"
       }
     ]
   },
@@ -27,7 +262,7 @@
     "name": "Shaye",
     "type": "photos",
     "parents": [
-      "2020",
+      "Photoshoots",
       "Shaye"
     ],
     "list": [
@@ -35,22 +270,22 @@
         "type": "photo",
         "width": 2950,
         "height": 3933,
-        "path": "./photos/2020/Shaye/Image4.jpg",
-        "min_path": "./photos/2020/Shaye/Image4.min.jpg"
+        "path": "./photos/Photoshoots/Shaye/Image4.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image4.min.jpg"
       },
       {
         "type": "photo",
         "width": 4525,
         "height": 2984,
-        "path": "./photos/2020/Shaye/Image3.jpg",
-        "min_path": "./photos/2020/Shaye/Image3.min.jpg"
+        "path": "./photos/Photoshoots/Shaye/Image3.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image3.min.jpg"
       },
       {
         "type": "photo",
         "width": 4401,
         "height": 2918,
-        "path": "./photos/2020/Shaye/Image2.jpg",
-        "min_path": "./photos/2020/Shaye/Image2.min.jpg"
+        "path": "./photos/Photoshoots/Shaye/Image2.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image2.min.jpg"
       }
     ]
   }

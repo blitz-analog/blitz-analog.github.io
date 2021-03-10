@@ -1,0 +1,110 @@
+{
+  "order": [
+    "000078900034.jpeg",
+    "000078900033.jpeg",
+    "000078900027.jpeg",
+    "000078890036.jpeg",
+    "000078890035.jpeg",
+    "000078890027.jpeg",
+    "000078890025.jpeg",
+    "000078890022.jpeg",
+    "000078890018.jpeg",
+    "000078890013.jpeg",
+    "000078890012.jpeg",
+    "000078890005.jpeg",
+    "000078890004.jpeg"
+  ],
+  "dict": {
+    "000078900034.jpeg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/London/000078900034.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078900034.min.jpeg"
+    },
+    "000078900033.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078900033.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078900033.min.jpeg"
+    },
+    "000078900027.jpeg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/London/000078900027.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078900027.min.jpeg"
+    },
+    "000078890036.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078890036.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890036.min.jpeg"
+    },
+    "000078890035.jpeg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/London/000078890035.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890035.min.jpeg"
+    },
+    "000078890027.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078890027.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890027.min.jpeg"
+    },
+    "000078890025.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078890025.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890025.min.jpeg"
+    },
+    "000078890022.jpeg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/London/000078890022.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890022.min.jpeg"
+    },
+    "000078890018.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078890018.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890018.min.jpeg"
+    },
+    "000078890013.jpeg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/London/000078890013.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890013.min.jpeg"
+    },
+    "000078890012.jpeg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/London/000078890012.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890012.min.jpeg"
+    },
+    "000078890005.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078890005.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890005.min.jpeg"
+    },
+    "000078890004.jpeg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/London/000078890004.jpeg",
+      "min_path": "./photos/Photoshoots/Xander/London/000078890004.min.jpeg"
+    }
+  }
+}

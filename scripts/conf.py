@@ -1,6 +1,7 @@
+import json
 from pathlib import Path
-import json, yaml
 
+import yaml
 
 REPO_DIR = Path.cwd()
 DIR_PATH = Path(__file__).parent.parent
@@ -13,7 +14,7 @@ CONF_YAML_PATH = DIR_PATH.joinpath('_config.yml')
 DEBUG = False
 
 MIN_WIDTH = 600
-copyright = '@Soyaine'
+copyright = '@Blitz Analog'
 fontsize = 40
 fontfamily = 'Eczar-Medium.ttf'
 watermark_rotate = 0
@@ -32,6 +33,7 @@ KEEP_ORDER = False
 
 Path.mkdir(ALBUMS_PATH, exist_ok=True)
 
+
 def merge_list(list_keep_order, list_new):
     print('Merge old order:', list_keep_order)
     print('The new order is:', list_new)
@@ -43,13 +45,14 @@ def merge_list(list_keep_order, list_new):
             left = idx
         if right is None or idx > right:
             right = idx
-    
+
     if (right - left + 1) == len(list_keep_order):
         list_new[left:right + 1] = list_keep_order
-    
+
     print('Merged order:', list_new)
     return list_new
-    
+
+
 def merge_json(path, data):
     try:
         with open(path, 'r') as f:
@@ -63,16 +66,18 @@ def merge_json(path, data):
         pass
     return data
 
+
 def write_json(path, data):
     if KEEP_ORDER:
         data = merge_json(path, data)
     with open(path, 'w') as f:
         f.write(json.dumps(data, indent=2, separators=(',', ': ')))
 
+
 with open(CONF_YAML_PATH, 'r') as config:
     site_conf = yaml.load(config, Loader=yaml.FullLoader)
     copyright = '@' + site_conf['name']
-    
+
     process = site_conf['process']
     if process:
         album_conf = process['album']

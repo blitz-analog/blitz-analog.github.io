@@ -1,6 +1,8 @@
 {
   "order": [
     "Kodak5.jpg",
+    "Kodak18redo3.jpg",
+    "Kodak18redo2.jpg",
     "Kodak18.jpg"
   ],
   "dict": {
@@ -10,6 +12,20 @@
       "height": 2937,
       "path": "./photos/2018/FaroeIslands/Kodak5.jpg",
       "min_path": "./photos/2018/FaroeIslands/Kodak5.min.jpg"
+    },
+    "Kodak18redo3.jpg": {
+      "type": "photo",
+      "width": 4531,
+      "height": 2984,
+      "path": "./photos/2018/FaroeIslands/Kodak18redo3.jpg",
+      "min_path": "./photos/2018/FaroeIslands/Kodak18redo3.min.jpg"
+    },
+    "Kodak18redo2.jpg": {
+      "type": "photo",
+      "width": 4531,
+      "height": 2984,
+      "path": "./photos/2018/FaroeIslands/Kodak18redo2.jpg",
+      "min_path": "./photos/2018/FaroeIslands/Kodak18redo2.min.jpg"
     },
     "Kodak18.jpg": {
       "type": "photo",

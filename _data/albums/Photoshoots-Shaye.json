@@ -1,0 +1,30 @@
+{
+  "order": [
+    "Image4.jpg",
+    "Image3.jpg",
+    "Image2.jpg"
+  ],
+  "dict": {
+    "Image4.jpg": {
+      "type": "photo",
+      "width": 2950,
+      "height": 3933,
+      "path": "./photos/Photoshoots/Shaye/Image4.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image4.min.jpg"
+    },
+    "Image3.jpg": {
+      "type": "photo",
+      "width": 4525,
+      "height": 2984,
+      "path": "./photos/Photoshoots/Shaye/Image3.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image3.min.jpg"
+    },
+    "Image2.jpg": {
+      "type": "photo",
+      "width": 4401,
+      "height": 2918,
+      "path": "./photos/Photoshoots/Shaye/Image2.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image2.min.jpg"
+    }
+  }
+}
