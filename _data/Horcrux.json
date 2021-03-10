@@ -5,57 +5,111 @@
   "parents": [],
   "items": {
     "order": [
-      "2018",
-      "2020"
+      "Destinations",
+      "Photoshoots"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "Destinations": {
+        "name": "Destinations",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "Destinations"
         ],
         "items": {
           "order": [
-            "FaroeIslands"
+            "San Francisco",
+            "Faroe Islands"
           ],
           "dict": {
-            "FaroeIslands": {
-              "name": "FaroeIslands",
+            "San Francisco": {
+              "name": "San Francisco",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "FaroeIslands"
+                "Destinations",
+                "San Francisco"
               ],
-              "path": "./_data/albums/2018-FaroeIslands.json",
+              "path": "./_data/albums/Destinations-San Francisco.json",
+              "no_sub_album": true
+            },
+            "Faroe Islands": {
+              "name": "Faroe Islands",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Faroe Islands"
+              ],
+              "path": "./_data/albums/Destinations-Faroe Islands.json",
               "no_sub_album": true
             }
           }
         }
       },
-      "2020": {
-        "name": "2020",
+      "Photoshoots": {
+        "name": "Photoshoots",
         "type": "album",
         "root": 1,
         "parents": [
-          "2020"
+          "Photoshoots"
         ],
         "items": {
           "order": [
+            "Xander",
             "Shaye"
           ],
           "dict": {
+            "Xander": {
+              "name": "Xander",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Photoshoots",
+                "Xander"
+              ],
+              "items": {
+                "order": [
+                  "London",
+                  "Sardinia"
+                ],
+                "dict": {
+                  "London": {
+                    "name": "London",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "Photoshoots",
+                      "Xander",
+                      "London"
+                    ],
+                    "path": "./_data/albums/Photoshoots-Xander-London.json",
+                    "no_sub_album": true
+                  },
+                  "Sardinia": {
+                    "name": "Sardinia",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "Photoshoots",
+                      "Xander",
+                      "Sardinia"
+                    ],
+                    "path": "./_data/albums/Photoshoots-Xander-Sardinia.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "Shaye": {
               "name": "Shaye",
               "type": "album",
               "root": 2,
               "parents": [
-                "2020",
+                "Photoshoots",
                 "Shaye"
               ],
-              "path": "./_data/albums/2020-Shaye.json",
+              "path": "./_data/albums/Photoshoots-Shaye.json",
               "no_sub_album": true
             }
           }

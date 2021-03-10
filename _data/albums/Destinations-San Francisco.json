@@ -1,0 +1,54 @@
+{
+  "order": [
+    "1369_31A.jpeg",
+    "1369_28A.jpeg",
+    "1294_34A.jpeg",
+    "1294_30A.jpeg",
+    "1294_04A.jpeg",
+    "1294_00A.jpeg"
+  ],
+  "dict": {
+    "1369_31A.jpeg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/San Francisco/1369_31A.jpeg",
+      "min_path": "./photos/Destinations/San Francisco/1369_31A.min.jpeg"
+    },
+    "1369_28A.jpeg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/San Francisco/1369_28A.jpeg",
+      "min_path": "./photos/Destinations/San Francisco/1369_28A.min.jpeg"
+    },
+    "1294_34A.jpeg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/San Francisco/1294_34A.jpeg",
+      "min_path": "./photos/Destinations/San Francisco/1294_34A.min.jpeg"
+    },
+    "1294_30A.jpeg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/San Francisco/1294_30A.jpeg",
+      "min_path": "./photos/Destinations/San Francisco/1294_30A.min.jpeg"
+    },
+    "1294_04A.jpeg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/San Francisco/1294_04A.jpeg",
+      "min_path": "./photos/Destinations/San Francisco/1294_04A.min.jpeg"
+    },
+    "1294_00A.jpeg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/San Francisco/1294_00A.jpeg",
+      "min_path": "./photos/Destinations/San Francisco/1294_00A.min.jpeg"
+    }
+  }
+}
