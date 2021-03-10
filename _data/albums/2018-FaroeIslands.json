@@ -1,0 +1,22 @@
+{
+  "order": [
+    "Kodak5.jpg",
+    "Kodak18.jpg"
+  ],
+  "dict": {
+    "Kodak5.jpg": {
+      "type": "photo",
+      "width": 4536,
+      "height": 2937,
+      "path": "./photos/2018/FaroeIslands/Kodak5.jpg",
+      "min_path": "./photos/2018/FaroeIslands/Kodak5.min.jpg"
+    },
+    "Kodak18.jpg": {
+      "type": "photo",
+      "width": 4531,
+      "height": 2984,
+      "path": "./photos/2018/FaroeIslands/Kodak18.jpg",
+      "min_path": "./photos/2018/FaroeIslands/Kodak18.min.jpg"
+    }
+  }
+}
