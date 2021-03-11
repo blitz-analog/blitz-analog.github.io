@@ -34,6 +34,10 @@
   grid-template: 1fr / repeat(var(--column, 3), 1fr);
   column-gap: var(--column-gap, 20px);
   row-gap: var(--row-gap, 20px);
+
+  padding-top: 70px;
+  margin-top: -70px;
+
 }
 .photo-figure {
   padding: var(--frame-padding);
@@ -96,8 +100,8 @@ button.pswp__button.pswp__button--share {
     font-size: larger;
   }
 
-  button.pswp__button.pswp__button--fs, 
-  button.pswp__button.pswp__button--arrow-left, 
+  button.pswp__button.pswp__button--fs,
+  button.pswp__button.pswp__button--arrow-left,
   button.pswp__button.pswp__button--arrow-right {
     display: none;
   }
