@@ -28,6 +28,55 @@ h1, h2, footer {
 figure {
   margin: 0;
 }
+
+.nav {
+  display: inline-block;
+  padding: 1px 10px 1px 10px;
+  text-transform: uppercase;
+  margin-top: -50px;
+  margin-bottom: -20px;
+
+}
+#navh2 {
+  line-height:29px;
+}
+
+about {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
+  text-align: justify;
+  display: inline-block;
+  /*border: 2px solid yellow;*/
+  font-size: 1em;
+  color: $title;
+  margin-bottom: 2em;
+}
+
+.grid-container {
+    margin-top: -20px;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-gap: 20px;
+    /*border: 2px solid yellow;*/
+}
+.grid-childfirst{
+  /*border: 2px solid yellow;*/
+}
+#text-child {
+  position: relative;
+  /*margin-top: 10%;
+  margin-bottom: 10%;
+  */
+
+}
+#aboutme {
+  border: 2px solid grey;
+  padding: 5px;
+  font: Helvetica;
+
+}
+
 footer {
   bottom: 0;
   color: $text;
@@ -39,6 +88,7 @@ footer {
 .footer-item {
   display: block;
   margin-bottom: .8em;
+  font-weight:bold;
 }
 a {
   text-decoration: none;
