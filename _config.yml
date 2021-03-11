@@ -30,6 +30,7 @@ process:
       rotate: 0
 
 instagram: blitz_analog
+google_analytics: G-H9MLL9LDM4
 
 sass:
   sass_dir: _sass
