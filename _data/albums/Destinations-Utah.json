@@ -1,0 +1,14 @@
+{
+  "order": [
+    "img009 (1).jpg"
+  ],
+  "dict": {
+    "img009 (1).jpg": {
+      "type": "photo",
+      "width": 3335,
+      "height": 2047,
+      "path": "./photos/Destinations/Utah/img009 (1).jpg",
+      "min_path": "./photos/Destinations/Utah/img009 (1).min.jpg"
+    }
+  }
+}

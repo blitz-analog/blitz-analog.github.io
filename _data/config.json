@@ -1,5 +1,262 @@
 [
   {
+    "name": "Iceland",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Iceland"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Iceland/AA028.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA028.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Iceland/AA021A.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA021A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Iceland/AA020A.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA020A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2205,
+        "path": "./photos/Destinations/Iceland/AA017A.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA017A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Iceland/AA013A.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA013A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Iceland/AA012.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA012.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2205,
+        "path": "./photos/Destinations/Iceland/AA008A.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA008A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Iceland/AA000A.jpg",
+        "min_path": "./photos/Destinations/Iceland/AA000A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/Iceland/000006.jpg",
+        "min_path": "./photos/Destinations/Iceland/000006.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/Iceland/000001 (1).jpg",
+        "min_path": "./photos/Destinations/Iceland/000001 (1).min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hong Kong:Taiwan:Singapore",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Hong Kong:Taiwan:Singapore"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA035.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA035.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA032.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA032.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049210036.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049210036.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049200012.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049200012.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000043100005.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000043100005.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2291,
+        "height": 1535,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000024.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000024.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2291,
+        "height": 1535,
+        "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000009.jpg",
+        "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000009.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Thailand"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2205,
+        "path": "./photos/Destinations/Thailand/AA004.jpg",
+        "min_path": "./photos/Destinations/Thailand/AA004.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Thailand/AA002.jpg",
+        "min_path": "./photos/Destinations/Thailand/AA002.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3090,
+        "path": "./photos/Destinations/Thailand/73250023.jpg",
+        "min_path": "./photos/Destinations/Thailand/73250023.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3090,
+        "height": 2048,
+        "path": "./photos/Destinations/Thailand/73250017.jpg",
+        "min_path": "./photos/Destinations/Thailand/73250017.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3090,
+        "height": 2048,
+        "path": "./photos/Destinations/Thailand/73250007.jpg",
+        "min_path": "./photos/Destinations/Thailand/73250007.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3088,
+        "height": 2048,
+        "path": "./photos/Destinations/Thailand/72090033.jpg",
+        "min_path": "./photos/Destinations/Thailand/72090033.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3088,
+        "height": 2048,
+        "path": "./photos/Destinations/Thailand/72090016.jpg",
+        "min_path": "./photos/Destinations/Thailand/72090016.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3088,
+        "height": 2048,
+        "path": "./photos/Destinations/Thailand/72090008.jpg",
+        "min_path": "./photos/Destinations/Thailand/72090008.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3715,
+        "height": 2528,
+        "path": "./photos/Destinations/Thailand/2019-01-16-0043.jpg",
+        "min_path": "./photos/Destinations/Thailand/2019-01-16-0043.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2291,
+        "height": 1535,
+        "path": "./photos/Destinations/Thailand/000040-2.jpg",
+        "min_path": "./photos/Destinations/Thailand/000040-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2291,
+        "height": 1535,
+        "path": "./photos/Destinations/Thailand/000001.jpg",
+        "min_path": "./photos/Destinations/Thailand/000001.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Durham",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Durham"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1818,
+        "height": 1228,
+        "path": "./photos/Destinations/Durham/R1-01190-0003.jpg",
+        "min_path": "./photos/Destinations/Durham/R1-01190-0003.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2205,
+        "path": "./photos/Destinations/Durham/AA007.jpg",
+        "min_path": "./photos/Destinations/Durham/AA007.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2307,
+        "height": 1554,
+        "path": "./photos/Destinations/Durham/000039.jpg",
+        "min_path": "./photos/Destinations/Durham/000039.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "San Francisco",
     "type": "photos",
     "parents": [
@@ -11,43 +268,693 @@
         "type": "photo",
         "width": 1545,
         "height": 1024,
-        "path": "./photos/Destinations/San Francisco/1369_31A.jpeg",
-        "min_path": "./photos/Destinations/San Francisco/1369_31A.min.jpeg"
+        "path": "./photos/Destinations/San Francisco/1369_31A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1369_31A.min.jpg"
       },
       {
         "type": "photo",
         "width": 1545,
         "height": 1024,
-        "path": "./photos/Destinations/San Francisco/1369_28A.jpeg",
-        "min_path": "./photos/Destinations/San Francisco/1369_28A.min.jpeg"
+        "path": "./photos/Destinations/San Francisco/1369_30A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1369_30A.min.jpg"
       },
       {
         "type": "photo",
         "width": 1545,
         "height": 1024,
-        "path": "./photos/Destinations/San Francisco/1294_34A.jpeg",
-        "min_path": "./photos/Destinations/San Francisco/1294_34A.min.jpeg"
+        "path": "./photos/Destinations/San Francisco/1369_28A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1369_28A.min.jpg"
       },
       {
         "type": "photo",
         "width": 1545,
         "height": 1024,
-        "path": "./photos/Destinations/San Francisco/1294_30A.jpeg",
-        "min_path": "./photos/Destinations/San Francisco/1294_30A.min.jpeg"
+        "path": "./photos/Destinations/San Francisco/1369_16A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1369_16A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1024,
+        "height": 1545,
+        "path": "./photos/Destinations/San Francisco/1369_15A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1369_15A.min.jpg"
       },
       {
         "type": "photo",
         "width": 1545,
         "height": 1024,
-        "path": "./photos/Destinations/San Francisco/1294_04A.jpeg",
-        "min_path": "./photos/Destinations/San Francisco/1294_04A.min.jpeg"
+        "path": "./photos/Destinations/San Francisco/1294_34A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1294_34A.min.jpg"
       },
       {
         "type": "photo",
         "width": 1545,
         "height": 1024,
-        "path": "./photos/Destinations/San Francisco/1294_00A.jpeg",
-        "min_path": "./photos/Destinations/San Francisco/1294_00A.min.jpeg"
+        "path": "./photos/Destinations/San Francisco/1294_30A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1294_30A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1294_04A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1294_04A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/San Francisco/1294_00A.jpg",
+        "min_path": "./photos/Destinations/San Francisco/1294_00A.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Miami",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Miami"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2938,
+        "height": 4485,
+        "path": "./photos/Destinations/Miami/Miami3.jpg",
+        "min_path": "./photos/Destinations/Miami/Miami3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4479,
+        "height": 2956,
+        "path": "./photos/Destinations/Miami/Miami1.jpg",
+        "min_path": "./photos/Destinations/Miami/Miami1.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/Miami/1369_04A.jpg",
+        "min_path": "./photos/Destinations/Miami/1369_04A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/Miami/1369_03A.jpg",
+        "min_path": "./photos/Destinations/Miami/1369_03A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1545,
+        "height": 1024,
+        "path": "./photos/Destinations/Miami/1369_01A.jpg",
+        "min_path": "./photos/Destinations/Miami/1369_01A.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "London",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "London"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4501,
+        "height": 2960,
+        "path": "./photos/Destinations/London/NightShoot35.jpg",
+        "min_path": "./photos/Destinations/London/NightShoot35.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4357,
+        "height": 3008,
+        "path": "./photos/Destinations/London/NightShoot15.jpg",
+        "min_path": "./photos/Destinations/London/NightShoot15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3008,
+        "path": "./photos/Destinations/London/Image32 (1).jpg",
+        "min_path": "./photos/Destinations/London/Image32 (1).min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3001,
+        "path": "./photos/Destinations/London/Image3.jpg",
+        "min_path": "./photos/Destinations/London/Image3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3005,
+        "path": "./photos/Destinations/London/Image2.jpg",
+        "min_path": "./photos/Destinations/London/Image2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4573,
+        "height": 2975,
+        "path": "./photos/Destinations/London/Image16.jpg",
+        "min_path": "./photos/Destinations/London/Image16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4492,
+        "height": 2953,
+        "path": "./photos/Destinations/London/Graveyard14.jpg",
+        "min_path": "./photos/Destinations/London/Graveyard14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4534,
+        "height": 2939,
+        "path": "./photos/Destinations/London/Battersea6.jpg",
+        "min_path": "./photos/Destinations/London/Battersea6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3008,
+        "path": "./photos/Destinations/London/Battersea4.jpg",
+        "min_path": "./photos/Destinations/London/Battersea4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2984,
+        "height": 4544,
+        "path": "./photos/Destinations/London/Battersea11.jpg",
+        "min_path": "./photos/Destinations/London/Battersea11.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Boston",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Boston"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 6979,
+        "height": 7108,
+        "path": "./photos/Destinations/Boston/Rescan3.jpg",
+        "min_path": "./photos/Destinations/Boston/Rescan3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4444,
+        "height": 2890,
+        "path": "./photos/Destinations/Boston/Image9.jpg",
+        "min_path": "./photos/Destinations/Boston/Image9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 7052,
+        "height": 7146,
+        "path": "./photos/Destinations/Boston/Image8.jpg",
+        "min_path": "./photos/Destinations/Boston/Image8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 10428,
+        "height": 6958,
+        "path": "./photos/Destinations/Boston/Image35-2.jpg",
+        "min_path": "./photos/Destinations/Boston/Image35-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4474,
+        "height": 2977,
+        "path": "./photos/Destinations/Boston/Image23-2.jpg",
+        "min_path": "./photos/Destinations/Boston/Image23-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4409,
+        "height": 2931,
+        "path": "./photos/Destinations/Boston/Image22 (2).jpg",
+        "min_path": "./photos/Destinations/Boston/Image22 (2).min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 10356,
+        "height": 6891,
+        "path": "./photos/Destinations/Boston/Image2 (2)-2.jpg",
+        "min_path": "./photos/Destinations/Boston/Image2 (2)-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2935,
+        "height": 4544,
+        "path": "./photos/Destinations/Boston/Image19.jpg",
+        "min_path": "./photos/Destinations/Boston/Image19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4514,
+        "height": 2963,
+        "path": "./photos/Destinations/Boston/Image16.jpg",
+        "min_path": "./photos/Destinations/Boston/Image16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2930,
+        "height": 4357,
+        "path": "./photos/Destinations/Boston/Image13.jpg",
+        "min_path": "./photos/Destinations/Boston/Image13.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6889,
+        "height": 6894,
+        "path": "./photos/Destinations/Boston/Image1 (2).jpg",
+        "min_path": "./photos/Destinations/Boston/Image1 (2).min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "China"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000061.jpg",
+        "min_path": "./photos/Destinations/China/000061.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000053.jpg",
+        "min_path": "./photos/Destinations/China/000053.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000049.jpg",
+        "min_path": "./photos/Destinations/China/000049.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000048.jpg",
+        "min_path": "./photos/Destinations/China/000048.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Destinations/China/000043380010.jpg",
+        "min_path": "./photos/Destinations/China/000043380010.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Destinations/China/000043360019.jpg",
+        "min_path": "./photos/Destinations/China/000043360019.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Destinations/China/000043360017.jpg",
+        "min_path": "./photos/Destinations/China/000043360017.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3089,
+        "height": 2048,
+        "path": "./photos/Destinations/China/000043350033.jpg",
+        "min_path": "./photos/Destinations/China/000043350033.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2048,
+        "height": 3089,
+        "path": "./photos/Destinations/China/000043350031.jpg",
+        "min_path": "./photos/Destinations/China/000043350031.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2291,
+        "height": 1535,
+        "path": "./photos/Destinations/China/000041.jpg",
+        "min_path": "./photos/Destinations/China/000041.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000040.jpg",
+        "min_path": "./photos/Destinations/China/000040.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1806,
+        "height": 1220,
+        "path": "./photos/Destinations/China/000038.jpg",
+        "min_path": "./photos/Destinations/China/000038.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1818,
+        "height": 1228,
+        "path": "./photos/Destinations/China/000035.jpg",
+        "min_path": "./photos/Destinations/China/000035.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000033.jpg",
+        "min_path": "./photos/Destinations/China/000033.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1818,
+        "height": 1228,
+        "path": "./photos/Destinations/China/000022.jpg",
+        "min_path": "./photos/Destinations/China/000022.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1818,
+        "height": 1228,
+        "path": "./photos/Destinations/China/000021.jpg",
+        "min_path": "./photos/Destinations/China/000021.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000012.jpg",
+        "min_path": "./photos/Destinations/China/000012.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000004.jpg",
+        "min_path": "./photos/Destinations/China/000004.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2314,
+        "height": 1559,
+        "path": "./photos/Destinations/China/000002.jpg",
+        "min_path": "./photos/Destinations/China/000002.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Japan"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 5760,
+        "height": 3840,
+        "path": "./photos/Destinations/Japan/PICT0317.jpg",
+        "min_path": "./photos/Destinations/Japan/PICT0317.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Japan/AA031.jpg",
+        "min_path": "./photos/Destinations/Japan/AA031.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Japan/AA029.jpg",
+        "min_path": "./photos/Destinations/Japan/AA029.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Japan/AA027A.jpg",
+        "min_path": "./photos/Destinations/Japan/AA027A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2205,
+        "path": "./photos/Destinations/Japan/AA020.jpg",
+        "min_path": "./photos/Destinations/Japan/AA020.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Japan/AA005A.jpg",
+        "min_path": "./photos/Destinations/Japan/AA005A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2139,
+        "path": "./photos/Destinations/Japan/AA001(1).jpg",
+        "min_path": "./photos/Destinations/Japan/AA001(1).min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Switzerland"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4530,
+        "height": 2973,
+        "path": "./photos/Destinations/Switzerland/Image33.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Image33.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3008,
+        "path": "./photos/Destinations/Switzerland/Image 29.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Image 29.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4573,
+        "height": 3008,
+        "path": "./photos/Destinations/Switzerland/Image 24.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Image 24.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3008,
+        "path": "./photos/Destinations/Switzerland/Image 13 7.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Image 13 7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4573,
+        "height": 2983,
+        "path": "./photos/Destinations/Switzerland/Image 13 6.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Image 13 6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3008,
+        "path": "./photos/Destinations/Switzerland/Colour22.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Colour22.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4573,
+        "height": 3008,
+        "path": "./photos/Destinations/Switzerland/Colour19.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Colour19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 3008,
+        "path": "./photos/Destinations/Switzerland/Colour18.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Colour18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 2984,
+        "path": "./photos/Destinations/Switzerland/Colour15.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Colour15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 2984,
+        "path": "./photos/Destinations/Switzerland/Colour11.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Colour11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4453,
+        "height": 2936,
+        "path": "./photos/Destinations/Switzerland/Color34.jpg",
+        "min_path": "./photos/Destinations/Switzerland/Color34.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Utah",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Utah"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3335,
+        "height": 2047,
+        "path": "./photos/Destinations/Utah/img009 (1).jpg",
+        "min_path": "./photos/Destinations/Utah/img009 (1).min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Tuscany",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Tuscany"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Tuscany/AA028A.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA028A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Tuscany/AA028.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA028.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Tuscany/AA020.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA020.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Tuscany/AA013A.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA013A.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Tuscany/AA008.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA008.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2205,
+        "height": 1470,
+        "path": "./photos/Destinations/Tuscany/AA006.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA006.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1470,
+        "height": 2205,
+        "path": "./photos/Destinations/Tuscany/AA001.jpg",
+        "min_path": "./photos/Destinations/Tuscany/AA001.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sardinia",
+    "type": "photos",
+    "parents": [
+      "Destinations",
+      "Sardinia"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 2960,
+        "path": "./photos/Destinations/Sardinia/Sard24.jpg",
+        "min_path": "./photos/Destinations/Sardinia/Sard24.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4529,
+        "height": 2972,
+        "path": "./photos/Destinations/Sardinia/Sard23.jpg",
+        "min_path": "./photos/Destinations/Sardinia/Sard23.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 2980,
+        "path": "./photos/Destinations/Sardinia/Sard22.jpg",
+        "min_path": "./photos/Destinations/Sardinia/Sard22.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4497,
+        "height": 2984,
+        "path": "./photos/Destinations/Sardinia/Sard2 15.jpg",
+        "min_path": "./photos/Destinations/Sardinia/Sard2 15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3032,
+        "height": 4549,
+        "path": "./photos/Destinations/Sardinia/Sard 36.jpg",
+        "min_path": "./photos/Destinations/Sardinia/Sard 36.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4525,
+        "height": 3008,
+        "path": "./photos/Destinations/Sardinia/Image32.jpg",
+        "min_path": "./photos/Destinations/Sardinia/Image32.min.jpg"
       }
     ]
   },
@@ -63,36 +970,130 @@
         "type": "photo",
         "width": 4536,
         "height": 2937,
-        "path": "./photos/Destinations/Faroe Islands/Kodak5.jpeg",
-        "min_path": "./photos/Destinations/Faroe Islands/Kodak5.min.jpeg"
+        "path": "./photos/Destinations/Faroe Islands/Kodak5.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4508,
+        "height": 2969,
+        "path": "./photos/Destinations/Faroe Islands/Kodak36.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak36.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4549,
+        "height": 2984,
+        "path": "./photos/Destinations/Faroe Islands/Kodak33.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak33.min.jpg"
       },
       {
         "type": "photo",
         "width": 4531,
         "height": 2984,
-        "path": "./photos/Destinations/Faroe Islands/Kodak18.jpeg",
-        "min_path": "./photos/Destinations/Faroe Islands/Kodak18.min.jpeg"
+        "path": "./photos/Destinations/Faroe Islands/Kodak18.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4537,
+        "height": 2949,
+        "path": "./photos/Destinations/Faroe Islands/Kodak1.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Kodak1.min.jpg"
       },
       {
         "type": "photo",
         "width": 4501,
         "height": 2958,
-        "path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.jpeg",
-        "min_path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.min.jpeg"
+        "path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.min.jpg"
       },
       {
         "type": "photo",
         "width": 2947,
         "height": 4470,
-        "path": "./photos/Destinations/Faroe Islands/Image37.jpeg",
-        "min_path": "./photos/Destinations/Faroe Islands/Image37.min.jpeg"
+        "path": "./photos/Destinations/Faroe Islands/Image37.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image37.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4544,
+        "height": 2947,
+        "path": "./photos/Destinations/Faroe Islands/Image30.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image30.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4548,
+        "height": 3008,
+        "path": "./photos/Destinations/Faroe Islands/Image3.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4534,
+        "height": 2950,
+        "path": "./photos/Destinations/Faroe Islands/Image29.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image29.min.jpg"
       },
       {
         "type": "photo",
         "width": 2910,
         "height": 4526,
-        "path": "./photos/Destinations/Faroe Islands/Image19.jpeg",
-        "min_path": "./photos/Destinations/Faroe Islands/Image19.min.jpeg"
+        "path": "./photos/Destinations/Faroe Islands/Image19.jpg",
+        "min_path": "./photos/Destinations/Faroe Islands/Image19.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Friends",
+    "type": "photos",
+    "parents": [
+      "Photoshoots",
+      "Friends"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4501,
+        "height": 2960,
+        "path": "./photos/Photoshoots/Friends/WStan5.jpg",
+        "min_path": "./photos/Photoshoots/Friends/WStan5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2894,
+        "height": 4493,
+        "path": "./photos/Photoshoots/Friends/WStan4 (3).jpg",
+        "min_path": "./photos/Photoshoots/Friends/WStan4 (3).min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4479,
+        "height": 2984,
+        "path": "./photos/Photoshoots/Friends/Sard2 14.jpg",
+        "min_path": "./photos/Photoshoots/Friends/Sard2 14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4525,
+        "height": 2984,
+        "path": "./photos/Photoshoots/Friends/ReScan2.jpg",
+        "min_path": "./photos/Photoshoots/Friends/ReScan2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1228,
+        "height": 1818,
+        "path": "./photos/Photoshoots/Friends/R1-01190-0024.jpg",
+        "min_path": "./photos/Photoshoots/Friends/R1-01190-0024.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2989,
+        "height": 4561,
+        "path": "./photos/Photoshoots/Friends/Image24.jpg",
+        "min_path": "./photos/Photoshoots/Friends/Image24.min.jpg"
       }
     ]
   },
@@ -109,92 +1110,78 @@
         "type": "photo",
         "width": 3089,
         "height": 2048,
-        "path": "./photos/Photoshoots/Xander/London/000078900034.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078900034.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078900034.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078900034.min.jpg"
       },
       {
         "type": "photo",
         "width": 2048,
         "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078900033.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078900033.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078900033.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078900033.min.jpg"
       },
       {
         "type": "photo",
         "width": 3089,
         "height": 2048,
-        "path": "./photos/Photoshoots/Xander/London/000078900027.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078900027.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078900027.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078900027.min.jpg"
       },
       {
         "type": "photo",
         "width": 2048,
         "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078890036.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890036.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890036.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890036.min.jpg"
       },
       {
         "type": "photo",
         "width": 3089,
         "height": 2048,
-        "path": "./photos/Photoshoots/Xander/London/000078890035.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890035.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890035.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890035.min.jpg"
       },
       {
         "type": "photo",
         "width": 2048,
         "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078890027.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890027.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890027.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890027.min.jpg"
       },
       {
         "type": "photo",
         "width": 2048,
         "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078890025.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890025.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890025.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890025.min.jpg"
       },
       {
         "type": "photo",
         "width": 3089,
         "height": 2048,
-        "path": "./photos/Photoshoots/Xander/London/000078890022.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890022.min.jpeg"
-      },
-      {
-        "type": "photo",
-        "width": 2048,
-        "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078890018.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890018.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890021.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890021.min.jpg"
       },
       {
         "type": "photo",
         "width": 3089,
         "height": 2048,
-        "path": "./photos/Photoshoots/Xander/London/000078890013.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890013.min.jpeg"
-      },
-      {
-        "type": "photo",
-        "width": 3089,
-        "height": 2048,
-        "path": "./photos/Photoshoots/Xander/London/000078890012.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890012.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890013.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890013.min.jpg"
       },
       {
         "type": "photo",
         "width": 2048,
         "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078890005.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890005.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890005.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890005.min.jpg"
       },
       {
         "type": "photo",
         "width": 2048,
         "height": 3089,
-        "path": "./photos/Photoshoots/Xander/London/000078890004.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/London/000078890004.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/London/000078890004.jpg",
+        "min_path": "./photos/Photoshoots/Xander/London/000078890004.min.jpg"
       }
     ]
   },
@@ -211,50 +1198,50 @@
         "type": "photo",
         "width": 2940,
         "height": 4549,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.min.jpg"
       },
       {
         "type": "photo",
         "width": 4549,
         "height": 2984,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.min.jpg"
       },
       {
         "type": "photo",
         "width": 2970,
         "height": 4552,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.min.jpg"
       },
       {
         "type": "photo",
         "width": 4573,
         "height": 3008,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.min.jpg"
       },
       {
         "type": "photo",
         "width": 4551,
         "height": 2964,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.min.jpg"
       },
       {
         "type": "photo",
         "width": 4517,
         "height": 2991,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.min.jpg"
       },
       {
         "type": "photo",
         "width": 4556,
         "height": 2995,
-        "path": "./photos/Photoshoots/Xander/Sardinia/Image36.jpeg",
-        "min_path": "./photos/Photoshoots/Xander/Sardinia/Image36.min.jpeg"
+        "path": "./photos/Photoshoots/Xander/Sardinia/Image36.jpg",
+        "min_path": "./photos/Photoshoots/Xander/Sardinia/Image36.min.jpg"
       }
     ]
   },
@@ -268,24 +1255,94 @@
     "list": [
       {
         "type": "photo",
-        "width": 2950,
-        "height": 3933,
-        "path": "./photos/Photoshoots/Shaye/Image4.jpg",
-        "min_path": "./photos/Photoshoots/Shaye/Image4.min.jpg"
+        "width": 18949,
+        "height": 4223,
+        "path": "./photos/Photoshoots/Shaye/Strip12.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Strip12.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4525,
-        "height": 2984,
-        "path": "./photos/Photoshoots/Shaye/Image3.jpg",
-        "min_path": "./photos/Photoshoots/Shaye/Image3.min.jpg"
+        "width": 3252,
+        "height": 1462,
+        "path": "./photos/Photoshoots/Shaye/ShayeStrip2.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/ShayeStrip2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 18736,
+        "height": 4313,
+        "path": "./photos/Photoshoots/Shaye/Shaye37 (4).jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Shaye37 (4).min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2688,
+        "height": 3584,
+        "path": "./photos/Photoshoots/Shaye/Shaye37 (3).jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Shaye37 (3).min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4103,
+        "height": 2529,
+        "path": "./photos/Photoshoots/Shaye/Image8.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2950,
+        "height": 3933,
+        "path": "./photos/Photoshoots/Shaye/Image4-2.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image4-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4507,
+        "height": 2915,
+        "path": "./photos/Photoshoots/Shaye/Image33.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image33.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4533,
+        "height": 2946,
+        "path": "./photos/Photoshoots/Shaye/Image32.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image32.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4520,
+        "height": 2918,
+        "path": "./photos/Photoshoots/Shaye/Image31.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image31.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4491,
+        "height": 2926,
+        "path": "./photos/Photoshoots/Shaye/Image3-2.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image3-2.min.jpg"
       },
       {
         "type": "photo",
         "width": 4401,
-        "height": 2918,
-        "path": "./photos/Photoshoots/Shaye/Image2.jpg",
-        "min_path": "./photos/Photoshoots/Shaye/Image2.min.jpg"
+        "height": 2870,
+        "path": "./photos/Photoshoots/Shaye/Image2-2.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image2-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4525,
+        "height": 2951,
+        "path": "./photos/Photoshoots/Shaye/Image19.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2925,
+        "height": 4464,
+        "path": "./photos/Photoshoots/Shaye/Image18.jpg",
+        "min_path": "./photos/Photoshoots/Shaye/Image18.min.jpg"
       }
     ]
   }

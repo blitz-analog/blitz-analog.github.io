@@ -1,0 +1,62 @@
+{
+  "order": [
+    "PICT0317.jpg",
+    "AA031.jpg",
+    "AA029.jpg",
+    "AA027A.jpg",
+    "AA020.jpg",
+    "AA005A.jpg",
+    "AA001(1).jpg"
+  ],
+  "dict": {
+    "PICT0317.jpg": {
+      "type": "photo",
+      "width": 5760,
+      "height": 3840,
+      "path": "./photos/Destinations/Japan/PICT0317.jpg",
+      "min_path": "./photos/Destinations/Japan/PICT0317.min.jpg"
+    },
+    "AA031.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Japan/AA031.jpg",
+      "min_path": "./photos/Destinations/Japan/AA031.min.jpg"
+    },
+    "AA029.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Japan/AA029.jpg",
+      "min_path": "./photos/Destinations/Japan/AA029.min.jpg"
+    },
+    "AA027A.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Japan/AA027A.jpg",
+      "min_path": "./photos/Destinations/Japan/AA027A.min.jpg"
+    },
+    "AA020.jpg": {
+      "type": "photo",
+      "width": 1470,
+      "height": 2205,
+      "path": "./photos/Destinations/Japan/AA020.jpg",
+      "min_path": "./photos/Destinations/Japan/AA020.min.jpg"
+    },
+    "AA005A.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Japan/AA005A.jpg",
+      "min_path": "./photos/Destinations/Japan/AA005A.min.jpg"
+    },
+    "AA001(1).jpg": {
+      "type": "photo",
+      "width": 1470,
+      "height": 2139,
+      "path": "./photos/Destinations/Japan/AA001(1).jpg",
+      "min_path": "./photos/Destinations/Japan/AA001(1).min.jpg"
+    }
+  }
+}

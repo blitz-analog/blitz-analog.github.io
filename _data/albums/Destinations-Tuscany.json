@@ -1,0 +1,62 @@
+{
+  "order": [
+    "AA028A.jpg",
+    "AA028.jpg",
+    "AA020.jpg",
+    "AA013A.jpg",
+    "AA008.jpg",
+    "AA006.jpg",
+    "AA001.jpg"
+  ],
+  "dict": {
+    "AA028A.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Tuscany/AA028A.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA028A.min.jpg"
+    },
+    "AA028.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Tuscany/AA028.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA028.min.jpg"
+    },
+    "AA020.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Tuscany/AA020.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA020.min.jpg"
+    },
+    "AA013A.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Tuscany/AA013A.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA013A.min.jpg"
+    },
+    "AA008.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Tuscany/AA008.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA008.min.jpg"
+    },
+    "AA006.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Tuscany/AA006.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA006.min.jpg"
+    },
+    "AA001.jpg": {
+      "type": "photo",
+      "width": 1470,
+      "height": 2205,
+      "path": "./photos/Destinations/Tuscany/AA001.jpg",
+      "min_path": "./photos/Destinations/Tuscany/AA001.min.jpg"
+    }
+  }
+}

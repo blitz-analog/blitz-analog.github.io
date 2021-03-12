@@ -1,0 +1,54 @@
+{
+  "order": [
+    "Sard24.jpg",
+    "Sard23.jpg",
+    "Sard22.jpg",
+    "Sard2 15.jpg",
+    "Sard 36.jpg",
+    "Image32.jpg"
+  ],
+  "dict": {
+    "Sard24.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2960,
+      "path": "./photos/Destinations/Sardinia/Sard24.jpg",
+      "min_path": "./photos/Destinations/Sardinia/Sard24.min.jpg"
+    },
+    "Sard23.jpg": {
+      "type": "photo",
+      "width": 4529,
+      "height": 2972,
+      "path": "./photos/Destinations/Sardinia/Sard23.jpg",
+      "min_path": "./photos/Destinations/Sardinia/Sard23.min.jpg"
+    },
+    "Sard22.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2980,
+      "path": "./photos/Destinations/Sardinia/Sard22.jpg",
+      "min_path": "./photos/Destinations/Sardinia/Sard22.min.jpg"
+    },
+    "Sard2 15.jpg": {
+      "type": "photo",
+      "width": 4497,
+      "height": 2984,
+      "path": "./photos/Destinations/Sardinia/Sard2 15.jpg",
+      "min_path": "./photos/Destinations/Sardinia/Sard2 15.min.jpg"
+    },
+    "Sard 36.jpg": {
+      "type": "photo",
+      "width": 3032,
+      "height": 4549,
+      "path": "./photos/Destinations/Sardinia/Sard 36.jpg",
+      "min_path": "./photos/Destinations/Sardinia/Sard 36.min.jpg"
+    },
+    "Image32.jpg": {
+      "type": "photo",
+      "width": 4525,
+      "height": 3008,
+      "path": "./photos/Destinations/Sardinia/Image32.jpg",
+      "min_path": "./photos/Destinations/Sardinia/Image32.min.jpg"
+    }
+  }
+}

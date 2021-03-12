@@ -1,0 +1,94 @@
+{
+  "order": [
+    "Image33.jpg",
+    "Image 29.jpg",
+    "Image 24.jpg",
+    "Image 13 7.jpg",
+    "Image 13 6.jpg",
+    "Colour22.jpg",
+    "Colour19.jpg",
+    "Colour18.jpg",
+    "Colour15.jpg",
+    "Colour11.jpg",
+    "Color34.jpg"
+  ],
+  "dict": {
+    "Image33.jpg": {
+      "type": "photo",
+      "width": 4530,
+      "height": 2973,
+      "path": "./photos/Destinations/Switzerland/Image33.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Image33.min.jpg"
+    },
+    "Image 29.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 3008,
+      "path": "./photos/Destinations/Switzerland/Image 29.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Image 29.min.jpg"
+    },
+    "Image 24.jpg": {
+      "type": "photo",
+      "width": 4573,
+      "height": 3008,
+      "path": "./photos/Destinations/Switzerland/Image 24.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Image 24.min.jpg"
+    },
+    "Image 13 7.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 3008,
+      "path": "./photos/Destinations/Switzerland/Image 13 7.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Image 13 7.min.jpg"
+    },
+    "Image 13 6.jpg": {
+      "type": "photo",
+      "width": 4573,
+      "height": 2983,
+      "path": "./photos/Destinations/Switzerland/Image 13 6.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Image 13 6.min.jpg"
+    },
+    "Colour22.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 3008,
+      "path": "./photos/Destinations/Switzerland/Colour22.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Colour22.min.jpg"
+    },
+    "Colour19.jpg": {
+      "type": "photo",
+      "width": 4573,
+      "height": 3008,
+      "path": "./photos/Destinations/Switzerland/Colour19.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Colour19.min.jpg"
+    },
+    "Colour18.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 3008,
+      "path": "./photos/Destinations/Switzerland/Colour18.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Colour18.min.jpg"
+    },
+    "Colour15.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2984,
+      "path": "./photos/Destinations/Switzerland/Colour15.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Colour15.min.jpg"
+    },
+    "Colour11.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2984,
+      "path": "./photos/Destinations/Switzerland/Colour11.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Colour11.min.jpg"
+    },
+    "Color34.jpg": {
+      "type": "photo",
+      "width": 4453,
+      "height": 2936,
+      "path": "./photos/Destinations/Switzerland/Color34.jpg",
+      "min_path": "./photos/Destinations/Switzerland/Color34.min.jpg"
+    }
+  }
+}
