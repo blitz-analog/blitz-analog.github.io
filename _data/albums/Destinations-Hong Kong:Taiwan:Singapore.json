@@ -1,0 +1,62 @@
+{
+  "order": [
+    "AA035.jpg",
+    "AA032.jpg",
+    "000049210036.jpg",
+    "000049200012.jpg",
+    "000043100005.jpg",
+    "000024.jpg",
+    "000009.jpg"
+  ],
+  "dict": {
+    "AA035.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA035.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA035.min.jpg"
+    },
+    "AA032.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA032.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/AA032.min.jpg"
+    },
+    "000049210036.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049210036.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049210036.min.jpg"
+    },
+    "000049200012.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049200012.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000049200012.min.jpg"
+    },
+    "000043100005.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000043100005.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000043100005.min.jpg"
+    },
+    "000024.jpg": {
+      "type": "photo",
+      "width": 2291,
+      "height": 1535,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000024.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000024.min.jpg"
+    },
+    "000009.jpg": {
+      "type": "photo",
+      "width": 2291,
+      "height": 1535,
+      "path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000009.jpg",
+      "min_path": "./photos/Destinations/Hong Kong:Taiwan:Singapore/000009.min.jpg"
+    }
+  }
+}

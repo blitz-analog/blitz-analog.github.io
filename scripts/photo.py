@@ -64,8 +64,8 @@ class Photo():
         if conf.DEBUG:
             img.show()
         else:
-            # rgb_img = img.convert('RGB')
-            img.save(path, 'PNG')
+            rgb_img = img.convert('RGB')
+            rgb_img.save(path, 'JPEG', optimize=True,quality=85)
 
     def mark_image(self, img, fontsize):
         width, height = img.size

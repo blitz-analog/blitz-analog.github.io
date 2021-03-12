@@ -1,0 +1,94 @@
+{
+  "order": [
+    "Rescan3.jpg",
+    "Image9.jpg",
+    "Image8.jpg",
+    "Image35-2.jpg",
+    "Image23-2.jpg",
+    "Image22 (2).jpg",
+    "Image2 (2)-2.jpg",
+    "Image19.jpg",
+    "Image16.jpg",
+    "Image13.jpg",
+    "Image1 (2).jpg"
+  ],
+  "dict": {
+    "Rescan3.jpg": {
+      "type": "photo",
+      "width": 6979,
+      "height": 7108,
+      "path": "./photos/Destinations/Boston/Rescan3.jpg",
+      "min_path": "./photos/Destinations/Boston/Rescan3.min.jpg"
+    },
+    "Image9.jpg": {
+      "type": "photo",
+      "width": 4444,
+      "height": 2890,
+      "path": "./photos/Destinations/Boston/Image9.jpg",
+      "min_path": "./photos/Destinations/Boston/Image9.min.jpg"
+    },
+    "Image8.jpg": {
+      "type": "photo",
+      "width": 7052,
+      "height": 7146,
+      "path": "./photos/Destinations/Boston/Image8.jpg",
+      "min_path": "./photos/Destinations/Boston/Image8.min.jpg"
+    },
+    "Image35-2.jpg": {
+      "type": "photo",
+      "width": 10428,
+      "height": 6958,
+      "path": "./photos/Destinations/Boston/Image35-2.jpg",
+      "min_path": "./photos/Destinations/Boston/Image35-2.min.jpg"
+    },
+    "Image23-2.jpg": {
+      "type": "photo",
+      "width": 4474,
+      "height": 2977,
+      "path": "./photos/Destinations/Boston/Image23-2.jpg",
+      "min_path": "./photos/Destinations/Boston/Image23-2.min.jpg"
+    },
+    "Image22 (2).jpg": {
+      "type": "photo",
+      "width": 4409,
+      "height": 2931,
+      "path": "./photos/Destinations/Boston/Image22 (2).jpg",
+      "min_path": "./photos/Destinations/Boston/Image22 (2).min.jpg"
+    },
+    "Image2 (2)-2.jpg": {
+      "type": "photo",
+      "width": 10356,
+      "height": 6891,
+      "path": "./photos/Destinations/Boston/Image2 (2)-2.jpg",
+      "min_path": "./photos/Destinations/Boston/Image2 (2)-2.min.jpg"
+    },
+    "Image19.jpg": {
+      "type": "photo",
+      "width": 2935,
+      "height": 4544,
+      "path": "./photos/Destinations/Boston/Image19.jpg",
+      "min_path": "./photos/Destinations/Boston/Image19.min.jpg"
+    },
+    "Image16.jpg": {
+      "type": "photo",
+      "width": 4514,
+      "height": 2963,
+      "path": "./photos/Destinations/Boston/Image16.jpg",
+      "min_path": "./photos/Destinations/Boston/Image16.min.jpg"
+    },
+    "Image13.jpg": {
+      "type": "photo",
+      "width": 2930,
+      "height": 4357,
+      "path": "./photos/Destinations/Boston/Image13.jpg",
+      "min_path": "./photos/Destinations/Boston/Image13.min.jpg"
+    },
+    "Image1 (2).jpg": {
+      "type": "photo",
+      "width": 6889,
+      "height": 6894,
+      "path": "./photos/Destinations/Boston/Image1 (2).jpg",
+      "min_path": "./photos/Destinations/Boston/Image1 (2).min.jpg"
+    }
+  }
+}
