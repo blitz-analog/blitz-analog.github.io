@@ -9,86 +9,6 @@
       "Photoshoots"
     ],
     "dict": {
-      "Photoshoots": {
-        "name": "Photoshoots",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "Photoshoots"
-        ],
-        "items": {
-          "order": [
-            "Friends",
-            "Xander",
-            "Shaye"
-          ],
-          "dict": {
-            "Friends": {
-              "name": "Friends",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Photoshoots",
-                "Friends"
-              ],
-              "path": "./_data/albums/Photoshoots-Friends.json",
-              "no_sub_album": true
-            },
-            "Xander": {
-              "name": "Xander",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Photoshoots",
-                "Xander"
-              ],
-              "items": {
-                "order": [
-                  "London",
-                  "Sardinia"
-                ],
-                "dict": {
-                  "London": {
-                    "name": "London",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "Photoshoots",
-                      "Xander",
-                      "London"
-                    ],
-                    "path": "./_data/albums/Photoshoots-Xander-London.json",
-                    "no_sub_album": true
-                  },
-                  "Sardinia": {
-                    "name": "Sardinia",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "Photoshoots",
-                      "Xander",
-                      "Sardinia"
-                    ],
-                    "path": "./_data/albums/Photoshoots-Xander-Sardinia.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            },
-            "Shaye": {
-              "name": "Shaye",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Photoshoots",
-                "Shaye"
-              ],
-              "path": "./_data/albums/Photoshoots-Shaye.json",
-              "no_sub_album": true
-            }
-          }
-        }
-      },
       "Destinations": {
         "name": "Destinations",
         "type": "album",
@@ -100,18 +20,18 @@
           "order": [
             "Iceland",
             "Hong Kong:Taiwan:Singapore",
-            "Thailand",
             "Durham",
-            "San Francisco",
-            "Miami",
-            "London",
             "Boston",
             "China",
             "Japan",
             "Switzerland",
             "Utah",
-            "Tuscany",
+            "Thailand",
+            "San Francisco",
+            "Miami",
+            "London",
             "Sardinia",
+            "Tuscany",
             "Faroe Islands"
           ],
           "dict": {
@@ -137,17 +57,6 @@
               "path": "./_data/albums/Destinations-Hong Kong:Taiwan:Singapore.json",
               "no_sub_album": true
             },
-            "Thailand": {
-              "name": "Thailand",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Thailand"
-              ],
-              "path": "./_data/albums/Destinations-Thailand.json",
-              "no_sub_album": true
-            },
             "Durham": {
               "name": "Durham",
               "type": "album",
@@ -157,39 +66,6 @@
                 "Durham"
               ],
               "path": "./_data/albums/Destinations-Durham.json",
-              "no_sub_album": true
-            },
-            "San Francisco": {
-              "name": "San Francisco",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "San Francisco"
-              ],
-              "path": "./_data/albums/Destinations-San Francisco.json",
-              "no_sub_album": true
-            },
-            "Miami": {
-              "name": "Miami",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Miami"
-              ],
-              "path": "./_data/albums/Destinations-Miami.json",
-              "no_sub_album": true
-            },
-            "London": {
-              "name": "London",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "London"
-              ],
-              "path": "./_data/albums/Destinations-London.json",
               "no_sub_album": true
             },
             "Boston": {
@@ -247,15 +123,48 @@
               "path": "./_data/albums/Destinations-Utah.json",
               "no_sub_album": true
             },
-            "Tuscany": {
-              "name": "Tuscany",
+            "Thailand": {
+              "name": "Thailand",
               "type": "album",
               "root": 2,
               "parents": [
                 "Destinations",
-                "Tuscany"
+                "Thailand"
               ],
-              "path": "./_data/albums/Destinations-Tuscany.json",
+              "path": "./_data/albums/Destinations-Thailand.json",
+              "no_sub_album": true
+            },
+            "San Francisco": {
+              "name": "San Francisco",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "San Francisco"
+              ],
+              "path": "./_data/albums/Destinations-San Francisco.json",
+              "no_sub_album": true
+            },
+            "Miami": {
+              "name": "Miami",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Miami"
+              ],
+              "path": "./_data/albums/Destinations-Miami.json",
+              "no_sub_album": true
+            },
+            "London": {
+              "name": "London",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "London"
+              ],
+              "path": "./_data/albums/Destinations-London.json",
               "no_sub_album": true
             },
             "Sardinia": {
@@ -269,6 +178,17 @@
               "path": "./_data/albums/Destinations-Sardinia.json",
               "no_sub_album": true
             },
+            "Tuscany": {
+              "name": "Tuscany",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Tuscany"
+              ],
+              "path": "./_data/albums/Destinations-Tuscany.json",
+              "no_sub_album": true
+            },
             "Faroe Islands": {
               "name": "Faroe Islands",
               "type": "album",
@@ -279,6 +199,86 @@
               ],
               "path": "./_data/albums/Destinations-Faroe Islands.json",
               "no_sub_album": true
+            }
+          }
+        }
+      },
+      "Photoshoots": {
+        "name": "Photoshoots",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Photoshoots"
+        ],
+        "items": {
+          "order": [
+            "Friends",
+            "Shaye",
+            "Xander"
+          ],
+          "dict": {
+            "Friends": {
+              "name": "Friends",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Photoshoots",
+                "Friends"
+              ],
+              "path": "./_data/albums/Photoshoots-Friends.json",
+              "no_sub_album": true
+            },
+            "Shaye": {
+              "name": "Shaye",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Photoshoots",
+                "Shaye"
+              ],
+              "path": "./_data/albums/Photoshoots-Shaye.json",
+              "no_sub_album": true
+            },
+            "Xander": {
+              "name": "Xander",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Photoshoots",
+                "Xander"
+              ],
+              "items": {
+                "order": [
+                  "London",
+                  "Sardinia"
+                ],
+                "dict": {
+                  "London": {
+                    "name": "London",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "Photoshoots",
+                      "Xander",
+                      "London"
+                    ],
+                    "path": "./_data/albums/Photoshoots-Xander-London.json",
+                    "no_sub_album": true
+                  },
+                  "Sardinia": {
+                    "name": "Sardinia",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "Photoshoots",
+                      "Xander",
+                      "Sardinia"
+                    ],
+                    "path": "./_data/albums/Photoshoots-Xander-Sardinia.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
             }
           }
         }
