@@ -1,96 +1,26 @@
 {
   "order": [
-    "Strip12.jpg",
-    "ShayeStrip2.jpg",
-    "Shaye37 (4).jpg",
-    "Shaye37 (3).jpg",
-    "Image8.jpg",
-    "Image4-2.jpg",
-    "Image33.jpg",
-    "Image32.jpg",
-    "Image31.jpg",
-    "Image3-2.jpg",
-    "Image2-2.jpg",
+    "Image18.jpg",
     "Image19.jpg",
-    "Image18.jpg"
+    "Image2-2.jpg",
+    "Image3-2.jpg",
+    "Image31.jpg",
+    "Image32.jpg",
+    "Image33.jpg",
+    "Image4-2.jpg",
+    "Image8.jpg",
+    "Shaye37 (3).jpg",
+    "Shaye37 (4).jpg",
+    "ShayeStrip2.jpg",
+    "Strip12.jpg"
   ],
   "dict": {
-    "Strip12.jpg": {
+    "Image18.jpg": {
       "type": "photo",
-      "width": 18949,
-      "height": 4223,
-      "path": "./photos/Photoshoots/Shaye/Strip12.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Strip12.min.jpg"
-    },
-    "ShayeStrip2.jpg": {
-      "type": "photo",
-      "width": 3252,
-      "height": 1462,
-      "path": "./photos/Photoshoots/Shaye/ShayeStrip2.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/ShayeStrip2.min.jpg"
-    },
-    "Shaye37 (4).jpg": {
-      "type": "photo",
-      "width": 18736,
-      "height": 4313,
-      "path": "./photos/Photoshoots/Shaye/Shaye37 (4).jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Shaye37 (4).min.jpg"
-    },
-    "Shaye37 (3).jpg": {
-      "type": "photo",
-      "width": 2688,
-      "height": 3584,
-      "path": "./photos/Photoshoots/Shaye/Shaye37 (3).jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Shaye37 (3).min.jpg"
-    },
-    "Image8.jpg": {
-      "type": "photo",
-      "width": 4103,
-      "height": 2529,
-      "path": "./photos/Photoshoots/Shaye/Image8.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image8.min.jpg"
-    },
-    "Image4-2.jpg": {
-      "type": "photo",
-      "width": 2950,
-      "height": 3933,
-      "path": "./photos/Photoshoots/Shaye/Image4-2.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image4-2.min.jpg"
-    },
-    "Image33.jpg": {
-      "type": "photo",
-      "width": 4507,
-      "height": 2915,
-      "path": "./photos/Photoshoots/Shaye/Image33.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image33.min.jpg"
-    },
-    "Image32.jpg": {
-      "type": "photo",
-      "width": 4533,
-      "height": 2946,
-      "path": "./photos/Photoshoots/Shaye/Image32.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image32.min.jpg"
-    },
-    "Image31.jpg": {
-      "type": "photo",
-      "width": 4520,
-      "height": 2918,
-      "path": "./photos/Photoshoots/Shaye/Image31.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image31.min.jpg"
-    },
-    "Image3-2.jpg": {
-      "type": "photo",
-      "width": 4491,
-      "height": 2926,
-      "path": "./photos/Photoshoots/Shaye/Image3-2.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image3-2.min.jpg"
-    },
-    "Image2-2.jpg": {
-      "type": "photo",
-      "width": 4401,
-      "height": 2870,
-      "path": "./photos/Photoshoots/Shaye/Image2-2.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image2-2.min.jpg"
+      "width": 2925,
+      "height": 4464,
+      "path": "./photos/Photoshoots/Shaye/Image18.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image18.min.jpg"
     },
     "Image19.jpg": {
       "type": "photo",
@@ -99,12 +29,82 @@
       "path": "./photos/Photoshoots/Shaye/Image19.jpg",
       "min_path": "./photos/Photoshoots/Shaye/Image19.min.jpg"
     },
-    "Image18.jpg": {
+    "Image2-2.jpg": {
       "type": "photo",
-      "width": 2925,
-      "height": 4464,
-      "path": "./photos/Photoshoots/Shaye/Image18.jpg",
-      "min_path": "./photos/Photoshoots/Shaye/Image18.min.jpg"
+      "width": 4401,
+      "height": 2870,
+      "path": "./photos/Photoshoots/Shaye/Image2-2.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image2-2.min.jpg"
+    },
+    "Image3-2.jpg": {
+      "type": "photo",
+      "width": 4491,
+      "height": 2926,
+      "path": "./photos/Photoshoots/Shaye/Image3-2.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image3-2.min.jpg"
+    },
+    "Image31.jpg": {
+      "type": "photo",
+      "width": 4520,
+      "height": 2918,
+      "path": "./photos/Photoshoots/Shaye/Image31.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image31.min.jpg"
+    },
+    "Image32.jpg": {
+      "type": "photo",
+      "width": 4533,
+      "height": 2946,
+      "path": "./photos/Photoshoots/Shaye/Image32.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image32.min.jpg"
+    },
+    "Image33.jpg": {
+      "type": "photo",
+      "width": 4507,
+      "height": 2915,
+      "path": "./photos/Photoshoots/Shaye/Image33.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image33.min.jpg"
+    },
+    "Image4-2.jpg": {
+      "type": "photo",
+      "width": 2950,
+      "height": 3933,
+      "path": "./photos/Photoshoots/Shaye/Image4-2.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image4-2.min.jpg"
+    },
+    "Image8.jpg": {
+      "type": "photo",
+      "width": 4103,
+      "height": 2529,
+      "path": "./photos/Photoshoots/Shaye/Image8.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Image8.min.jpg"
+    },
+    "Shaye37 (3).jpg": {
+      "type": "photo",
+      "width": 2688,
+      "height": 3584,
+      "path": "./photos/Photoshoots/Shaye/Shaye37 (3).jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Shaye37 (3).min.jpg"
+    },
+    "Shaye37 (4).jpg": {
+      "type": "photo",
+      "width": 18736,
+      "height": 4313,
+      "path": "./photos/Photoshoots/Shaye/Shaye37 (4).jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Shaye37 (4).min.jpg"
+    },
+    "ShayeStrip2.jpg": {
+      "type": "photo",
+      "width": 3252,
+      "height": 1462,
+      "path": "./photos/Photoshoots/Shaye/ShayeStrip2.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/ShayeStrip2.min.jpg"
+    },
+    "Strip12.jpg": {
+      "type": "photo",
+      "width": 18949,
+      "height": 4223,
+      "path": "./photos/Photoshoots/Shaye/Strip12.jpg",
+      "min_path": "./photos/Photoshoots/Shaye/Strip12.min.jpg"
     }
   }
 }

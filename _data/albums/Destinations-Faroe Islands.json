@@ -1,80 +1,24 @@
 {
   "order": [
-    "Kodak5.jpg",
-    "Kodak36.jpg",
-    "Kodak33.jpg",
-    "Kodak18.jpg",
-    "Kodak1.jpg",
-    "ImageFlipRescan1.jpg",
-    "Image37.jpg",
-    "Image30.jpg",
-    "Image3.jpg",
+    "Image19.jpg",
     "Image29.jpg",
-    "Image19.jpg"
+    "Image3.jpg",
+    "Image30.jpg",
+    "Image37.jpg",
+    "ImageFlipRescan1.jpg",
+    "Kodak1.jpg",
+    "Kodak18.jpg",
+    "Kodak33.jpg",
+    "Kodak36.jpg",
+    "Kodak5.jpg"
   ],
   "dict": {
-    "Kodak5.jpg": {
+    "Image19.jpg": {
       "type": "photo",
-      "width": 4536,
-      "height": 2937,
-      "path": "./photos/Destinations/Faroe Islands/Kodak5.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Kodak5.min.jpg"
-    },
-    "Kodak36.jpg": {
-      "type": "photo",
-      "width": 4508,
-      "height": 2969,
-      "path": "./photos/Destinations/Faroe Islands/Kodak36.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Kodak36.min.jpg"
-    },
-    "Kodak33.jpg": {
-      "type": "photo",
-      "width": 4549,
-      "height": 2984,
-      "path": "./photos/Destinations/Faroe Islands/Kodak33.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Kodak33.min.jpg"
-    },
-    "Kodak18.jpg": {
-      "type": "photo",
-      "width": 4531,
-      "height": 2984,
-      "path": "./photos/Destinations/Faroe Islands/Kodak18.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Kodak18.min.jpg"
-    },
-    "Kodak1.jpg": {
-      "type": "photo",
-      "width": 4537,
-      "height": 2949,
-      "path": "./photos/Destinations/Faroe Islands/Kodak1.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Kodak1.min.jpg"
-    },
-    "ImageFlipRescan1.jpg": {
-      "type": "photo",
-      "width": 4501,
-      "height": 2958,
-      "path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.min.jpg"
-    },
-    "Image37.jpg": {
-      "type": "photo",
-      "width": 2947,
-      "height": 4470,
-      "path": "./photos/Destinations/Faroe Islands/Image37.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Image37.min.jpg"
-    },
-    "Image30.jpg": {
-      "type": "photo",
-      "width": 4544,
-      "height": 2947,
-      "path": "./photos/Destinations/Faroe Islands/Image30.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Image30.min.jpg"
-    },
-    "Image3.jpg": {
-      "type": "photo",
-      "width": 4548,
-      "height": 3008,
-      "path": "./photos/Destinations/Faroe Islands/Image3.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Image3.min.jpg"
+      "width": 2910,
+      "height": 4526,
+      "path": "./photos/Destinations/Faroe Islands/Image19.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Image19.min.jpg"
     },
     "Image29.jpg": {
       "type": "photo",
@@ -83,12 +27,68 @@
       "path": "./photos/Destinations/Faroe Islands/Image29.jpg",
       "min_path": "./photos/Destinations/Faroe Islands/Image29.min.jpg"
     },
-    "Image19.jpg": {
+    "Image3.jpg": {
       "type": "photo",
-      "width": 2910,
-      "height": 4526,
-      "path": "./photos/Destinations/Faroe Islands/Image19.jpg",
-      "min_path": "./photos/Destinations/Faroe Islands/Image19.min.jpg"
+      "width": 4548,
+      "height": 3008,
+      "path": "./photos/Destinations/Faroe Islands/Image3.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Image3.min.jpg"
+    },
+    "Image30.jpg": {
+      "type": "photo",
+      "width": 4544,
+      "height": 2947,
+      "path": "./photos/Destinations/Faroe Islands/Image30.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Image30.min.jpg"
+    },
+    "Image37.jpg": {
+      "type": "photo",
+      "width": 2947,
+      "height": 4470,
+      "path": "./photos/Destinations/Faroe Islands/Image37.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Image37.min.jpg"
+    },
+    "ImageFlipRescan1.jpg": {
+      "type": "photo",
+      "width": 4501,
+      "height": 2958,
+      "path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/ImageFlipRescan1.min.jpg"
+    },
+    "Kodak1.jpg": {
+      "type": "photo",
+      "width": 4537,
+      "height": 2949,
+      "path": "./photos/Destinations/Faroe Islands/Kodak1.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Kodak1.min.jpg"
+    },
+    "Kodak18.jpg": {
+      "type": "photo",
+      "width": 4531,
+      "height": 2984,
+      "path": "./photos/Destinations/Faroe Islands/Kodak18.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Kodak18.min.jpg"
+    },
+    "Kodak33.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2984,
+      "path": "./photos/Destinations/Faroe Islands/Kodak33.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Kodak33.min.jpg"
+    },
+    "Kodak36.jpg": {
+      "type": "photo",
+      "width": 4508,
+      "height": 2969,
+      "path": "./photos/Destinations/Faroe Islands/Kodak36.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Kodak36.min.jpg"
+    },
+    "Kodak5.jpg": {
+      "type": "photo",
+      "width": 4536,
+      "height": 2937,
+      "path": "./photos/Destinations/Faroe Islands/Kodak5.jpg",
+      "min_path": "./photos/Destinations/Faroe Islands/Kodak5.min.jpg"
     }
   }
 }

@@ -1,19 +1,11 @@
 {
   "order": [
-    "Miami3.jpg",
     "Miami1.jpg",
-    "1369_04A.jpg",
-    "1369_03A.jpg",
-    "1369_01A.jpg"
+    "Miami3.jpg",
+    "z1369_01A.jpg",
+    "z1369_03A.jpg"
   ],
   "dict": {
-    "Miami3.jpg": {
-      "type": "photo",
-      "width": 2938,
-      "height": 4485,
-      "path": "./photos/Destinations/Miami/Miami3.jpg",
-      "min_path": "./photos/Destinations/Miami/Miami3.min.jpg"
-    },
     "Miami1.jpg": {
       "type": "photo",
       "width": 4479,
@@ -21,26 +13,26 @@
       "path": "./photos/Destinations/Miami/Miami1.jpg",
       "min_path": "./photos/Destinations/Miami/Miami1.min.jpg"
     },
-    "1369_04A.jpg": {
+    "Miami3.jpg": {
       "type": "photo",
-      "width": 1545,
-      "height": 1024,
-      "path": "./photos/Destinations/Miami/1369_04A.jpg",
-      "min_path": "./photos/Destinations/Miami/1369_04A.min.jpg"
+      "width": 2938,
+      "height": 4485,
+      "path": "./photos/Destinations/Miami/Miami3.jpg",
+      "min_path": "./photos/Destinations/Miami/Miami3.min.jpg"
     },
-    "1369_03A.jpg": {
+    "z1369_01A.jpg": {
       "type": "photo",
       "width": 1545,
       "height": 1024,
-      "path": "./photos/Destinations/Miami/1369_03A.jpg",
-      "min_path": "./photos/Destinations/Miami/1369_03A.min.jpg"
+      "path": "./photos/Destinations/Miami/z1369_01A.jpg",
+      "min_path": "./photos/Destinations/Miami/z1369_01A.min.jpg"
     },
-    "1369_01A.jpg": {
+    "z1369_03A.jpg": {
       "type": "photo",
       "width": 1545,
       "height": 1024,
-      "path": "./photos/Destinations/Miami/1369_01A.jpg",
-      "min_path": "./photos/Destinations/Miami/1369_01A.min.jpg"
+      "path": "./photos/Destinations/Miami/z1369_03A.jpg",
+      "min_path": "./photos/Destinations/Miami/z1369_03A.min.jpg"
     }
   }
 }

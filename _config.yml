@@ -12,15 +12,15 @@ small_screen:
   row_gap: 10px
 
 process:
-  keep_order: True
+  keep_order: False
   album:
     sort_by_time: True # False: sort by filename
-    order_by: create # access, modify
+    order_by: modify # access, modify
     reverse: True
   photo:
     sort_by_time: False
-    order_by: modify
-    reverse: True
+    order_by: name
+    reverse: False
     min_width: 600
     watermark:
       thumbnail: False

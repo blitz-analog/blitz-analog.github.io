@@ -1,40 +1,19 @@
 {
   "order": [
-    "WStan5.jpg",
-    "WStan4 (3).jpg",
-    "Sard2 14.jpg",
-    "ReScan2.jpg",
+    "Image24.jpg",
     "R1-01190-0024.jpg",
-    "Image24.jpg"
+    "ReScan2.jpg",
+    "Sard2 14.jpg",
+    "WStan4 (3).jpg",
+    "WStan5.jpg"
   ],
   "dict": {
-    "WStan5.jpg": {
+    "Image24.jpg": {
       "type": "photo",
-      "width": 4501,
-      "height": 2960,
-      "path": "./photos/Photoshoots/Friends/WStan5.jpg",
-      "min_path": "./photos/Photoshoots/Friends/WStan5.min.jpg"
-    },
-    "WStan4 (3).jpg": {
-      "type": "photo",
-      "width": 2894,
-      "height": 4493,
-      "path": "./photos/Photoshoots/Friends/WStan4 (3).jpg",
-      "min_path": "./photos/Photoshoots/Friends/WStan4 (3).min.jpg"
-    },
-    "Sard2 14.jpg": {
-      "type": "photo",
-      "width": 4479,
-      "height": 2984,
-      "path": "./photos/Photoshoots/Friends/Sard2 14.jpg",
-      "min_path": "./photos/Photoshoots/Friends/Sard2 14.min.jpg"
-    },
-    "ReScan2.jpg": {
-      "type": "photo",
-      "width": 4525,
-      "height": 2984,
-      "path": "./photos/Photoshoots/Friends/ReScan2.jpg",
-      "min_path": "./photos/Photoshoots/Friends/ReScan2.min.jpg"
+      "width": 2989,
+      "height": 4561,
+      "path": "./photos/Photoshoots/Friends/Image24.jpg",
+      "min_path": "./photos/Photoshoots/Friends/Image24.min.jpg"
     },
     "R1-01190-0024.jpg": {
       "type": "photo",
@@ -43,12 +22,33 @@
       "path": "./photos/Photoshoots/Friends/R1-01190-0024.jpg",
       "min_path": "./photos/Photoshoots/Friends/R1-01190-0024.min.jpg"
     },
-    "Image24.jpg": {
+    "ReScan2.jpg": {
       "type": "photo",
-      "width": 2989,
-      "height": 4561,
-      "path": "./photos/Photoshoots/Friends/Image24.jpg",
-      "min_path": "./photos/Photoshoots/Friends/Image24.min.jpg"
+      "width": 4525,
+      "height": 2984,
+      "path": "./photos/Photoshoots/Friends/ReScan2.jpg",
+      "min_path": "./photos/Photoshoots/Friends/ReScan2.min.jpg"
+    },
+    "Sard2 14.jpg": {
+      "type": "photo",
+      "width": 4479,
+      "height": 2984,
+      "path": "./photos/Photoshoots/Friends/Sard2 14.jpg",
+      "min_path": "./photos/Photoshoots/Friends/Sard2 14.min.jpg"
+    },
+    "WStan4 (3).jpg": {
+      "type": "photo",
+      "width": 2894,
+      "height": 4493,
+      "path": "./photos/Photoshoots/Friends/WStan4 (3).jpg",
+      "min_path": "./photos/Photoshoots/Friends/WStan4 (3).min.jpg"
+    },
+    "WStan5.jpg": {
+      "type": "photo",
+      "width": 4501,
+      "height": 2960,
+      "path": "./photos/Photoshoots/Friends/WStan5.jpg",
+      "min_path": "./photos/Photoshoots/Friends/WStan5.min.jpg"
     }
   }
 }

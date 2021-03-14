@@ -1,51 +1,22 @@
 {
   "order": [
-    "AA028.jpg",
-    "AA021A.jpg",
-    "AA020A.jpg",
-    "AA017A.jpg",
-    "AA013A.jpg",
-    "AA012.jpg",
-    "AA008A.jpg",
     "AA000A.jpg",
-    "000006.jpg",
-    "000001 (1).jpg"
+    "AA012.jpg",
+    "AA013A.jpg",
+    "AA017A.jpg",
+    "z000001 (1).jpg",
+    "z000006.jpg",
+    "zAA008A.jpg",
+    "zAA021A.jpg",
+    "zAA028.jpg"
   ],
   "dict": {
-    "AA028.jpg": {
+    "AA000A.jpg": {
       "type": "photo",
       "width": 2205,
       "height": 1470,
-      "path": "./photos/Destinations/Iceland/AA028.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA028.min.jpg"
-    },
-    "AA021A.jpg": {
-      "type": "photo",
-      "width": 2205,
-      "height": 1470,
-      "path": "./photos/Destinations/Iceland/AA021A.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA021A.min.jpg"
-    },
-    "AA020A.jpg": {
-      "type": "photo",
-      "width": 2205,
-      "height": 1470,
-      "path": "./photos/Destinations/Iceland/AA020A.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA020A.min.jpg"
-    },
-    "AA017A.jpg": {
-      "type": "photo",
-      "width": 1470,
-      "height": 2205,
-      "path": "./photos/Destinations/Iceland/AA017A.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA017A.min.jpg"
-    },
-    "AA013A.jpg": {
-      "type": "photo",
-      "width": 2205,
-      "height": 1470,
-      "path": "./photos/Destinations/Iceland/AA013A.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA013A.min.jpg"
+      "path": "./photos/Destinations/Iceland/AA000A.jpg",
+      "min_path": "./photos/Destinations/Iceland/AA000A.min.jpg"
     },
     "AA012.jpg": {
       "type": "photo",
@@ -54,33 +25,54 @@
       "path": "./photos/Destinations/Iceland/AA012.jpg",
       "min_path": "./photos/Destinations/Iceland/AA012.min.jpg"
     },
-    "AA008A.jpg": {
-      "type": "photo",
-      "width": 1470,
-      "height": 2205,
-      "path": "./photos/Destinations/Iceland/AA008A.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA008A.min.jpg"
-    },
-    "AA000A.jpg": {
+    "AA013A.jpg": {
       "type": "photo",
       "width": 2205,
       "height": 1470,
-      "path": "./photos/Destinations/Iceland/AA000A.jpg",
-      "min_path": "./photos/Destinations/Iceland/AA000A.min.jpg"
+      "path": "./photos/Destinations/Iceland/AA013A.jpg",
+      "min_path": "./photos/Destinations/Iceland/AA013A.min.jpg"
     },
-    "000006.jpg": {
+    "AA017A.jpg": {
+      "type": "photo",
+      "width": 1470,
+      "height": 2205,
+      "path": "./photos/Destinations/Iceland/AA017A.jpg",
+      "min_path": "./photos/Destinations/Iceland/AA017A.min.jpg"
+    },
+    "z000001 (1).jpg": {
       "type": "photo",
       "width": 2314,
       "height": 1559,
-      "path": "./photos/Destinations/Iceland/000006.jpg",
-      "min_path": "./photos/Destinations/Iceland/000006.min.jpg"
+      "path": "./photos/Destinations/Iceland/z000001 (1).jpg",
+      "min_path": "./photos/Destinations/Iceland/z000001 (1).min.jpg"
     },
-    "000001 (1).jpg": {
+    "z000006.jpg": {
       "type": "photo",
       "width": 2314,
       "height": 1559,
-      "path": "./photos/Destinations/Iceland/000001 (1).jpg",
-      "min_path": "./photos/Destinations/Iceland/000001 (1).min.jpg"
+      "path": "./photos/Destinations/Iceland/z000006.jpg",
+      "min_path": "./photos/Destinations/Iceland/z000006.min.jpg"
+    },
+    "zAA008A.jpg": {
+      "type": "photo",
+      "width": 1470,
+      "height": 2205,
+      "path": "./photos/Destinations/Iceland/zAA008A.jpg",
+      "min_path": "./photos/Destinations/Iceland/zAA008A.min.jpg"
+    },
+    "zAA021A.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Iceland/zAA021A.jpg",
+      "min_path": "./photos/Destinations/Iceland/zAA021A.min.jpg"
+    },
+    "zAA028.jpg": {
+      "type": "photo",
+      "width": 2178,
+      "height": 1467,
+      "path": "./photos/Destinations/Iceland/zAA028.jpg",
+      "min_path": "./photos/Destinations/Iceland/zAA028.min.jpg"
     }
   }
 }

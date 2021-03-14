@@ -1,48 +1,20 @@
 {
   "order": [
-    "Sard2 9.jpg",
-    "Sard2 6.jpg",
-    "Sard2 3.jpg",
-    "Sard2 2.jpg",
-    "Sard2 17.jpg",
+    "Image36.jpg",
     "Sard 38.jpg",
-    "Image36.jpg"
+    "Sard2 17.jpg",
+    "Sard2 2.jpg",
+    "Sard2 3.jpg",
+    "Sard2 6.jpg",
+    "Sard2 9.jpg"
   ],
   "dict": {
-    "Sard2 9.jpg": {
+    "Image36.jpg": {
       "type": "photo",
-      "width": 2940,
-      "height": 4549,
-      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.jpg",
-      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.min.jpg"
-    },
-    "Sard2 6.jpg": {
-      "type": "photo",
-      "width": 4549,
-      "height": 2984,
-      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.jpg",
-      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.min.jpg"
-    },
-    "Sard2 3.jpg": {
-      "type": "photo",
-      "width": 2970,
-      "height": 4552,
-      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.jpg",
-      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.min.jpg"
-    },
-    "Sard2 2.jpg": {
-      "type": "photo",
-      "width": 4573,
-      "height": 3008,
-      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.jpg",
-      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.min.jpg"
-    },
-    "Sard2 17.jpg": {
-      "type": "photo",
-      "width": 4551,
-      "height": 2964,
-      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.jpg",
-      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.min.jpg"
+      "width": 4556,
+      "height": 2995,
+      "path": "./photos/Photoshoots/Xander/Sardinia/Image36.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sardinia/Image36.min.jpg"
     },
     "Sard 38.jpg": {
       "type": "photo",
@@ -51,12 +23,40 @@
       "path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.jpg",
       "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard 38.min.jpg"
     },
-    "Image36.jpg": {
+    "Sard2 17.jpg": {
       "type": "photo",
-      "width": 4556,
-      "height": 2995,
-      "path": "./photos/Photoshoots/Xander/Sardinia/Image36.jpg",
-      "min_path": "./photos/Photoshoots/Xander/Sardinia/Image36.min.jpg"
+      "width": 4551,
+      "height": 2964,
+      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 17.min.jpg"
+    },
+    "Sard2 2.jpg": {
+      "type": "photo",
+      "width": 4573,
+      "height": 3008,
+      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 2.min.jpg"
+    },
+    "Sard2 3.jpg": {
+      "type": "photo",
+      "width": 2970,
+      "height": 4552,
+      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 3.min.jpg"
+    },
+    "Sard2 6.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2984,
+      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 6.min.jpg"
+    },
+    "Sard2 9.jpg": {
+      "type": "photo",
+      "width": 2940,
+      "height": 4549,
+      "path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sardinia/Sard2 9.min.jpg"
     }
   }
 }

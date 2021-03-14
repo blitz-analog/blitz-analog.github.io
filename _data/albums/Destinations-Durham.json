@@ -1,17 +1,10 @@
 {
   "order": [
-    "R1-01190-0003.jpg",
     "AA007.jpg",
-    "000039.jpg"
+    "R1-01190-0003.jpg",
+    "z000039.jpg"
   ],
   "dict": {
-    "R1-01190-0003.jpg": {
-      "type": "photo",
-      "width": 1818,
-      "height": 1228,
-      "path": "./photos/Destinations/Durham/R1-01190-0003.jpg",
-      "min_path": "./photos/Destinations/Durham/R1-01190-0003.min.jpg"
-    },
     "AA007.jpg": {
       "type": "photo",
       "width": 1470,
@@ -19,12 +12,19 @@
       "path": "./photos/Destinations/Durham/AA007.jpg",
       "min_path": "./photos/Destinations/Durham/AA007.min.jpg"
     },
-    "000039.jpg": {
+    "R1-01190-0003.jpg": {
+      "type": "photo",
+      "width": 1818,
+      "height": 1228,
+      "path": "./photos/Destinations/Durham/R1-01190-0003.jpg",
+      "min_path": "./photos/Destinations/Durham/R1-01190-0003.min.jpg"
+    },
+    "z000039.jpg": {
       "type": "photo",
       "width": 2307,
       "height": 1554,
-      "path": "./photos/Destinations/Durham/000039.jpg",
-      "min_path": "./photos/Destinations/Durham/000039.min.jpg"
+      "path": "./photos/Destinations/Durham/z000039.jpg",
+      "min_path": "./photos/Destinations/Durham/z000039.min.jpg"
     }
   }
 }
