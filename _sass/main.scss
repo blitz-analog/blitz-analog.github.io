@@ -29,13 +29,13 @@ figure {
   margin: 0;
 }
 
-@media (min-width:1500px){
+@media only screen and (min-width:1500px){
   .nav_wide {
     display: inline-block;
     vertical-align: middle;
     position: fixed;
     left: 30px;
-    top: 30%;
+    top: 10%;
     padding: 1px 1px 1px 10px;
     text-transform: uppercase;
   }
@@ -57,7 +57,7 @@ figure {
   }
 }
 
-@media (max-width:1500px){
+@media only screen and (max-width:1500px){
   .nav_thin {
   display: inline-block;
   padding: 1px 10px 1px 10px;
