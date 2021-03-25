@@ -1,0 +1,62 @@
+{
+  "order": [
+    "000009.jpg",
+    "000049200012.jpg",
+    "000049210036.jpg",
+    "Image13-2.jpg",
+    "zImage2.jpg",
+    "zImage24.jpg",
+    "zImage5.jpg"
+  ],
+  "dict": {
+    "000009.jpg": {
+      "type": "photo",
+      "width": 2291,
+      "height": 1535,
+      "path": "./photos/Destinations/Hong Kong/000009.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/000009.min.jpg"
+    },
+    "000049200012.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Destinations/Hong Kong/000049200012.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/000049200012.min.jpg"
+    },
+    "000049210036.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Destinations/Hong Kong/000049210036.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/000049210036.min.jpg"
+    },
+    "Image13-2.jpg": {
+      "type": "photo",
+      "width": 4557,
+      "height": 2933,
+      "path": "./photos/Destinations/Hong Kong/Image13-2.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/Image13-2.min.jpg"
+    },
+    "zImage2.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2990,
+      "path": "./photos/Destinations/Hong Kong/zImage2.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/zImage2.min.jpg"
+    },
+    "zImage24.jpg": {
+      "type": "photo",
+      "width": 4496,
+      "height": 2979,
+      "path": "./photos/Destinations/Hong Kong/zImage24.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/zImage24.min.jpg"
+    },
+    "zImage5.jpg": {
+      "type": "photo",
+      "width": 4517,
+      "height": 2984,
+      "path": "./photos/Destinations/Hong Kong/zImage5.jpg",
+      "min_path": "./photos/Destinations/Hong Kong/zImage5.min.jpg"
+    }
+  }
+}

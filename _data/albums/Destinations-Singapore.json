@@ -1,0 +1,30 @@
+{
+  "order": [
+    "Image4.jpg",
+    "zAA032.jpg",
+    "zAA035.jpg"
+  ],
+  "dict": {
+    "Image4.jpg": {
+      "type": "photo",
+      "width": 4434,
+      "height": 2947,
+      "path": "./photos/Destinations/Singapore/Image4.jpg",
+      "min_path": "./photos/Destinations/Singapore/Image4.min.jpg"
+    },
+    "zAA032.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Singapore/zAA032.jpg",
+      "min_path": "./photos/Destinations/Singapore/zAA032.min.jpg"
+    },
+    "zAA035.jpg": {
+      "type": "photo",
+      "width": 2205,
+      "height": 1470,
+      "path": "./photos/Destinations/Singapore/zAA035.jpg",
+      "min_path": "./photos/Destinations/Singapore/zAA035.min.jpg"
+    }
+  }
+}

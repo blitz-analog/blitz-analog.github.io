@@ -18,23 +18,68 @@
         ],
         "items": {
           "order": [
+            "Faroe Islands",
+            "Thailand",
+            "Singapore",
+            "Hong Kong",
             "Japan",
             "Miami",
             "Utah",
-            "Faroe Islands",
             "Tuscany",
             "Sardinia",
             "London",
             "San Francisco",
-            "Thailand",
             "Switzerland",
             "China",
             "Boston",
             "Durham",
-            "Hong Kong:Taiwan:Singapore",
             "Iceland"
           ],
           "dict": {
+            "Faroe Islands": {
+              "name": "Faroe Islands",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Faroe Islands"
+              ],
+              "path": "./_data/albums/Destinations-Faroe Islands.json",
+              "no_sub_album": true
+            },
+            "Thailand": {
+              "name": "Thailand",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Thailand"
+              ],
+              "path": "./_data/albums/Destinations-Thailand.json",
+              "no_sub_album": true
+            },
+            "Singapore": {
+              "name": "Singapore",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Singapore"
+              ],
+              "path": "./_data/albums/Destinations-Singapore.json",
+              "no_sub_album": true
+            },
+            "Hong Kong": {
+              "name": "Hong Kong",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Hong Kong"
+              ],
+              "path": "./_data/albums/Destinations-Hong Kong.json",
+              "no_sub_album": true
+            },
             "Japan": {
               "name": "Japan",
               "type": "album",
@@ -66,17 +111,6 @@
                 "Utah"
               ],
               "path": "./_data/albums/Destinations-Utah.json",
-              "no_sub_album": true
-            },
-            "Faroe Islands": {
-              "name": "Faroe Islands",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Faroe Islands"
-              ],
-              "path": "./_data/albums/Destinations-Faroe Islands.json",
               "no_sub_album": true
             },
             "Tuscany": {
@@ -123,17 +157,6 @@
               "path": "./_data/albums/Destinations-San Francisco.json",
               "no_sub_album": true
             },
-            "Thailand": {
-              "name": "Thailand",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Thailand"
-              ],
-              "path": "./_data/albums/Destinations-Thailand.json",
-              "no_sub_album": true
-            },
             "Switzerland": {
               "name": "Switzerland",
               "type": "album",
@@ -178,17 +201,6 @@
               "path": "./_data/albums/Destinations-Durham.json",
               "no_sub_album": true
             },
-            "Hong Kong:Taiwan:Singapore": {
-              "name": "Hong Kong:Taiwan:Singapore",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Hong Kong:Taiwan:Singapore"
-              ],
-              "path": "./_data/albums/Destinations-Hong Kong:Taiwan:Singapore.json",
-              "no_sub_album": true
-            },
             "Iceland": {
               "name": "Iceland",
               "type": "album",
@@ -212,11 +224,22 @@
         ],
         "items": {
           "order": [
+            "Xander",
             "Shaye",
-            "Friends",
-            "Xander"
+            "Friends"
           ],
           "dict": {
+            "Xander": {
+              "name": "Xander",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Photoshoots",
+                "Xander"
+              ],
+              "path": "./_data/albums/Photoshoots-Xander.json",
+              "no_sub_album": true
+            },
             "Shaye": {
               "name": "Shaye",
               "type": "album",
@@ -238,47 +261,6 @@
               ],
               "path": "./_data/albums/Photoshoots-Friends.json",
               "no_sub_album": true
-            },
-            "Xander": {
-              "name": "Xander",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Photoshoots",
-                "Xander"
-              ],
-              "items": {
-                "order": [
-                  "Sardinia",
-                  "London"
-                ],
-                "dict": {
-                  "Sardinia": {
-                    "name": "Sardinia",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "Photoshoots",
-                      "Xander",
-                      "Sardinia"
-                    ],
-                    "path": "./_data/albums/Photoshoots-Xander-Sardinia.json",
-                    "no_sub_album": true
-                  },
-                  "London": {
-                    "name": "London",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "Photoshoots",
-                      "Xander",
-                      "London"
-                    ],
-                    "path": "./_data/albums/Photoshoots-Xander-London.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
             }
           }
         }
