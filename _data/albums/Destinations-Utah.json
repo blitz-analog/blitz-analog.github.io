@@ -1,8 +1,24 @@
 {
   "order": [
+    "Image27-2.jpg",
+    "Image7.jpg",
     "zimg009 (1).jpg"
   ],
   "dict": {
+    "Image27-2.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2984,
+      "path": "./photos/Destinations/Utah/Image27-2.jpg",
+      "min_path": "./photos/Destinations/Utah/Image27-2.min.jpg"
+    },
+    "Image7.jpg": {
+      "type": "photo",
+      "width": 2962,
+      "height": 4557,
+      "path": "./photos/Destinations/Utah/Image7.jpg",
+      "min_path": "./photos/Destinations/Utah/Image7.min.jpg"
+    },
     "zimg009 (1).jpg": {
       "type": "photo",
       "width": 3335,
