@@ -1,0 +1,134 @@
+{
+  "order": [
+    "000078890004.jpg",
+    "000078890005.jpg",
+    "000078890025.jpg",
+    "000078890027.jpg",
+    "000078890035.jpg",
+    "000078890036.jpg",
+    "000078900027.jpg",
+    "000078900033.jpg",
+    "000078900034.jpg",
+    "Image36.jpg",
+    "Sard 38.jpg",
+    "Sard2 17.jpg",
+    "Sard2 2.jpg",
+    "Sard2 3.jpg",
+    "Sard2 6.jpg",
+    "Sard2 9.jpg"
+  ],
+  "dict": {
+    "000078890004.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/000078890004.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078890004.min.jpg"
+    },
+    "000078890005.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/000078890005.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078890005.min.jpg"
+    },
+    "000078890025.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/000078890025.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078890025.min.jpg"
+    },
+    "000078890027.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/000078890027.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078890027.min.jpg"
+    },
+    "000078890035.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/000078890035.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078890035.min.jpg"
+    },
+    "000078890036.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/000078890036.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078890036.min.jpg"
+    },
+    "000078900027.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/000078900027.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078900027.min.jpg"
+    },
+    "000078900033.jpg": {
+      "type": "photo",
+      "width": 2048,
+      "height": 3089,
+      "path": "./photos/Photoshoots/Xander/000078900033.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078900033.min.jpg"
+    },
+    "000078900034.jpg": {
+      "type": "photo",
+      "width": 3089,
+      "height": 2048,
+      "path": "./photos/Photoshoots/Xander/000078900034.jpg",
+      "min_path": "./photos/Photoshoots/Xander/000078900034.min.jpg"
+    },
+    "Image36.jpg": {
+      "type": "photo",
+      "width": 4556,
+      "height": 2995,
+      "path": "./photos/Photoshoots/Xander/Image36.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Image36.min.jpg"
+    },
+    "Sard 38.jpg": {
+      "type": "photo",
+      "width": 4517,
+      "height": 2991,
+      "path": "./photos/Photoshoots/Xander/Sard 38.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sard 38.min.jpg"
+    },
+    "Sard2 17.jpg": {
+      "type": "photo",
+      "width": 4551,
+      "height": 2964,
+      "path": "./photos/Photoshoots/Xander/Sard2 17.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sard2 17.min.jpg"
+    },
+    "Sard2 2.jpg": {
+      "type": "photo",
+      "width": 4573,
+      "height": 3008,
+      "path": "./photos/Photoshoots/Xander/Sard2 2.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sard2 2.min.jpg"
+    },
+    "Sard2 3.jpg": {
+      "type": "photo",
+      "width": 2970,
+      "height": 4552,
+      "path": "./photos/Photoshoots/Xander/Sard2 3.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sard2 3.min.jpg"
+    },
+    "Sard2 6.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2984,
+      "path": "./photos/Photoshoots/Xander/Sard2 6.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sard2 6.min.jpg"
+    },
+    "Sard2 9.jpg": {
+      "type": "photo",
+      "width": 2940,
+      "height": 4549,
+      "path": "./photos/Photoshoots/Xander/Sard2 9.jpg",
+      "min_path": "./photos/Photoshoots/Xander/Sard2 9.min.jpg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+<div class="nav_wide">
+  <h3 id="navh2">
+    <a class="navLink" href="#1"> Destinations </a>
+  </h3>
+    <br>
+    {%- assign counter = 1 -%}
+    {%- for album in nav_albums -%}
+      {%- if album.type == 'photos' -%}
+        {%- if album.parents contains 'Destinations' -%}
+          <h3 class="navSubLinks"><a href="#{{counter}}"> {{album.name}} </a></h3>
+          {%- assign counter = counter | plus: 1 -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    <br>
+    <h3 id="navh2">
+    <a class="navLink" href="#17"> Photoshoots </a>
+    </h3>
+    <br>
+    {%- assign counter = 17 -%}
+    {%- for album in nav_albums -%}
+      {%- if album.type == 'photos' -%}
+        {%- if album.parents contains 'Photoshoots' -%}
+          <h3  class="navSubLinks"> <a href="#{{counter}}"> {{album.name}} </a></h3>
+          {%- assign counter = counter | plus: 1 -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    <br>
+    <h3 id="navh2">
+    <a class="navLink" href="#AboutHeader"> About/Contact </a>
+    </h3>
+</div>
