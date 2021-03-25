@@ -1,7 +1,9 @@
 {
   "order": [
     "Miami1.jpg",
+    "Miami11.jpg",
     "Miami3.jpg",
+    "MiamiStrip15.jpg",
     "z1369_01A.jpg",
     "z1369_03A.jpg"
   ],
@@ -13,12 +15,26 @@
       "path": "./photos/Destinations/Miami/Miami1.jpg",
       "min_path": "./photos/Destinations/Miami/Miami1.min.jpg"
     },
+    "Miami11.jpg": {
+      "type": "photo",
+      "width": 7202,
+      "height": 7330,
+      "path": "./photos/Destinations/Miami/Miami11.jpg",
+      "min_path": "./photos/Destinations/Miami/Miami11.min.jpg"
+    },
     "Miami3.jpg": {
       "type": "photo",
       "width": 2938,
       "height": 4485,
       "path": "./photos/Destinations/Miami/Miami3.jpg",
       "min_path": "./photos/Destinations/Miami/Miami3.min.jpg"
+    },
+    "MiamiStrip15.jpg": {
+      "type": "photo",
+      "width": 7244,
+      "height": 7215,
+      "path": "./photos/Destinations/Miami/MiamiStrip15.jpg",
+      "min_path": "./photos/Destinations/Miami/MiamiStrip15.min.jpg"
     },
     "z1369_01A.jpg": {
       "type": "photo",

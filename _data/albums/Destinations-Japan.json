@@ -3,6 +3,8 @@
     "AA005A.jpg",
     "AA027A.jpg",
     "AA029.jpg",
+    "Image17.jpg",
+    "Image27.jpg",
     "PICT0317.jpg",
     "zAA001(1).jpg",
     "zAA020.jpg",
@@ -29,6 +31,20 @@
       "height": 1470,
       "path": "./photos/Destinations/Japan/AA029.jpg",
       "min_path": "./photos/Destinations/Japan/AA029.min.jpg"
+    },
+    "Image17.jpg": {
+      "type": "photo",
+      "width": 4510,
+      "height": 2975,
+      "path": "./photos/Destinations/Japan/Image17.jpg",
+      "min_path": "./photos/Destinations/Japan/Image17.min.jpg"
+    },
+    "Image27.jpg": {
+      "type": "photo",
+      "width": 4521,
+      "height": 2963,
+      "path": "./photos/Destinations/Japan/Image27.jpg",
+      "min_path": "./photos/Destinations/Japan/Image27.min.jpg"
     },
     "PICT0317.jpg": {
       "type": "photo",
