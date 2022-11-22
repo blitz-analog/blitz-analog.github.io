@@ -71,7 +71,7 @@ class Photo():
         width, height = img.size
         transparent_image = Image.new('RGBA', img.size, (255, 255, 255, 0))
 
-        font = ImageFont.truetype('./horcrux/assets/font/' + conf.fontfamily, conf.fontsize)
+        font = ImageFont.truetype('./blitz-analog.github.io/assets/font/' + conf.fontfamily, conf.fontsize)
         draw = ImageDraw.Draw(transparent_image)
         t_size = font.getsize(conf.copyright)
         t_w = t_size[0]

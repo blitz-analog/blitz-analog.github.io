@@ -1,0 +1,102 @@
+{
+  "order": [
+    "1757C410-1229-4A44-9C1D-42EC1DA07713_1_105_c.jpg",
+    "35188476-D7CE-41C0-8C66-387FDA4F5E86_1_105_c.jpg",
+    "4110_00A.jpg",
+    "4110_17A.jpg",
+    "4110_18A.jpg",
+    "CEDECB13-EBDF-45C4-BC36-4603698DD4E8_1_105_c.jpg",
+    "EF54D3AD-0481-4FC7-85EB-D203DD842182_1_105_c.jpg",
+    "Image13.jpg",
+    "Image17.jpg",
+    "Image18.jpg",
+    "Image8.jpg",
+    "Rescan17.jpg"
+  ],
+  "dict": {
+    "1757C410-1229-4A44-9C1D-42EC1DA07713_1_105_c.jpg": {
+      "type": "photo",
+      "width": 722,
+      "height": 1089,
+      "path": "./photos/Destinations/Costa Rica/1757C410-1229-4A44-9C1D-42EC1DA07713_1_105_c.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/1757C410-1229-4A44-9C1D-42EC1DA07713_1_105_c.min.jpg"
+    },
+    "35188476-D7CE-41C0-8C66-387FDA4F5E86_1_105_c.jpg": {
+      "type": "photo",
+      "width": 1089,
+      "height": 722,
+      "path": "./photos/Destinations/Costa Rica/35188476-D7CE-41C0-8C66-387FDA4F5E86_1_105_c.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/35188476-D7CE-41C0-8C66-387FDA4F5E86_1_105_c.min.jpg"
+    },
+    "4110_00A.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/Costa Rica/4110_00A.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/4110_00A.min.jpg"
+    },
+    "4110_17A.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/Costa Rica/4110_17A.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/4110_17A.min.jpg"
+    },
+    "4110_18A.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/Costa Rica/4110_18A.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/4110_18A.min.jpg"
+    },
+    "CEDECB13-EBDF-45C4-BC36-4603698DD4E8_1_105_c.jpg": {
+      "type": "photo",
+      "width": 1089,
+      "height": 722,
+      "path": "./photos/Destinations/Costa Rica/CEDECB13-EBDF-45C4-BC36-4603698DD4E8_1_105_c.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/CEDECB13-EBDF-45C4-BC36-4603698DD4E8_1_105_c.min.jpg"
+    },
+    "EF54D3AD-0481-4FC7-85EB-D203DD842182_1_105_c.jpg": {
+      "type": "photo",
+      "width": 1089,
+      "height": 722,
+      "path": "./photos/Destinations/Costa Rica/EF54D3AD-0481-4FC7-85EB-D203DD842182_1_105_c.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/EF54D3AD-0481-4FC7-85EB-D203DD842182_1_105_c.min.jpg"
+    },
+    "Image13.jpg": {
+      "type": "photo",
+      "width": 1400,
+      "height": 928,
+      "path": "./photos/Destinations/Costa Rica/Image13.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/Image13.min.jpg"
+    },
+    "Image17.jpg": {
+      "type": "photo",
+      "width": 1495,
+      "height": 2268,
+      "path": "./photos/Destinations/Costa Rica/Image17.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/Image17.min.jpg"
+    },
+    "Image18.jpg": {
+      "type": "photo",
+      "width": 2267,
+      "height": 1499,
+      "path": "./photos/Destinations/Costa Rica/Image18.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/Image18.min.jpg"
+    },
+    "Image8.jpg": {
+      "type": "photo",
+      "width": 2260,
+      "height": 1486,
+      "path": "./photos/Destinations/Costa Rica/Image8.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/Image8.min.jpg"
+    },
+    "Rescan17.jpg": {
+      "type": "photo",
+      "width": 4549,
+      "height": 2956,
+      "path": "./photos/Destinations/Costa Rica/Rescan17.jpg",
+      "min_path": "./photos/Destinations/Costa Rica/Rescan17.min.jpg"
+    }
+  }
+}

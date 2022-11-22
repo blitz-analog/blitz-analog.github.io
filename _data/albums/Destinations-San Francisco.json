@@ -4,6 +4,8 @@
     "1294_04A.jpg",
     "1294_30A.jpg",
     "1294_34A.jpg",
+    "Rescan16.jpg",
+    "Rescan5.jpg",
     "z1369_15A.jpg",
     "z1369_16A.jpg",
     "z1369_28A.jpg",
@@ -38,6 +40,20 @@
       "height": 1024,
       "path": "./photos/Destinations/San Francisco/1294_34A.jpg",
       "min_path": "./photos/Destinations/San Francisco/1294_34A.min.jpg"
+    },
+    "Rescan16.jpg": {
+      "type": "photo",
+      "width": 4533,
+      "height": 2952,
+      "path": "./photos/Destinations/San Francisco/Rescan16.jpg",
+      "min_path": "./photos/Destinations/San Francisco/Rescan16.min.jpg"
+    },
+    "Rescan5.jpg": {
+      "type": "photo",
+      "width": 4293,
+      "height": 2793,
+      "path": "./photos/Destinations/San Francisco/Rescan5.jpg",
+      "min_path": "./photos/Destinations/San Francisco/Rescan5.min.jpg"
     },
     "z1369_15A.jpg": {
       "type": "photo",

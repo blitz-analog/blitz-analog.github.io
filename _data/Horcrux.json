@@ -20,20 +20,23 @@
           "order": [
             "Faroe Islands",
             "Thailand",
-            "Singapore",
-            "Hong Kong",
             "Japan",
-            "Miami",
+            "Iceland",
+            "China",
+            "San Francisco",
+            "Hong Kong",
+            "Costa Rica",
+            "Switzerland",
+            "Portugal",
+            "Singapore",
+            "New York",
             "Utah",
             "Tuscany",
             "Sardinia",
             "London",
-            "San Francisco",
-            "Switzerland",
-            "China",
-            "Boston",
             "Durham",
-            "Iceland"
+            "Boston",
+            "Miami"
           ],
           "dict": {
             "Faroe Islands": {
@@ -58,15 +61,48 @@
               "path": "./_data/albums/Destinations-Thailand.json",
               "no_sub_album": true
             },
-            "Singapore": {
-              "name": "Singapore",
+            "Japan": {
+              "name": "Japan",
               "type": "album",
               "root": 2,
               "parents": [
                 "Destinations",
-                "Singapore"
+                "Japan"
               ],
-              "path": "./_data/albums/Destinations-Singapore.json",
+              "path": "./_data/albums/Destinations-Japan.json",
+              "no_sub_album": true
+            },
+            "Iceland": {
+              "name": "Iceland",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Iceland"
+              ],
+              "path": "./_data/albums/Destinations-Iceland.json",
+              "no_sub_album": true
+            },
+            "China": {
+              "name": "China",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "China"
+              ],
+              "path": "./_data/albums/Destinations-China.json",
+              "no_sub_album": true
+            },
+            "San Francisco": {
+              "name": "San Francisco",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "San Francisco"
+              ],
+              "path": "./_data/albums/Destinations-San Francisco.json",
               "no_sub_album": true
             },
             "Hong Kong": {
@@ -80,26 +116,59 @@
               "path": "./_data/albums/Destinations-Hong Kong.json",
               "no_sub_album": true
             },
-            "Japan": {
-              "name": "Japan",
+            "Costa Rica": {
+              "name": "Costa Rica",
               "type": "album",
               "root": 2,
               "parents": [
                 "Destinations",
-                "Japan"
+                "Costa Rica"
               ],
-              "path": "./_data/albums/Destinations-Japan.json",
+              "path": "./_data/albums/Destinations-Costa Rica.json",
               "no_sub_album": true
             },
-            "Miami": {
-              "name": "Miami",
+            "Switzerland": {
+              "name": "Switzerland",
               "type": "album",
               "root": 2,
               "parents": [
                 "Destinations",
-                "Miami"
+                "Switzerland"
               ],
-              "path": "./_data/albums/Destinations-Miami.json",
+              "path": "./_data/albums/Destinations-Switzerland.json",
+              "no_sub_album": true
+            },
+            "Portugal": {
+              "name": "Portugal",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Portugal"
+              ],
+              "path": "./_data/albums/Destinations-Portugal.json",
+              "no_sub_album": true
+            },
+            "Singapore": {
+              "name": "Singapore",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "Singapore"
+              ],
+              "path": "./_data/albums/Destinations-Singapore.json",
+              "no_sub_album": true
+            },
+            "New York": {
+              "name": "New York",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Destinations",
+                "New York"
+              ],
+              "path": "./_data/albums/Destinations-New York.json",
               "no_sub_album": true
             },
             "Utah": {
@@ -146,37 +215,15 @@
               "path": "./_data/albums/Destinations-London.json",
               "no_sub_album": true
             },
-            "San Francisco": {
-              "name": "San Francisco",
+            "Durham": {
+              "name": "Durham",
               "type": "album",
               "root": 2,
               "parents": [
                 "Destinations",
-                "San Francisco"
+                "Durham"
               ],
-              "path": "./_data/albums/Destinations-San Francisco.json",
-              "no_sub_album": true
-            },
-            "Switzerland": {
-              "name": "Switzerland",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Switzerland"
-              ],
-              "path": "./_data/albums/Destinations-Switzerland.json",
-              "no_sub_album": true
-            },
-            "China": {
-              "name": "China",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "China"
-              ],
-              "path": "./_data/albums/Destinations-China.json",
+              "path": "./_data/albums/Destinations-Durham.json",
               "no_sub_album": true
             },
             "Boston": {
@@ -190,26 +237,15 @@
               "path": "./_data/albums/Destinations-Boston.json",
               "no_sub_album": true
             },
-            "Durham": {
-              "name": "Durham",
+            "Miami": {
+              "name": "Miami",
               "type": "album",
               "root": 2,
               "parents": [
                 "Destinations",
-                "Durham"
+                "Miami"
               ],
-              "path": "./_data/albums/Destinations-Durham.json",
-              "no_sub_album": true
-            },
-            "Iceland": {
-              "name": "Iceland",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Destinations",
-                "Iceland"
-              ],
-              "path": "./_data/albums/Destinations-Iceland.json",
+              "path": "./_data/albums/Destinations-Miami.json",
               "no_sub_album": true
             }
           }
@@ -224,11 +260,22 @@
         ],
         "items": {
           "order": [
+            "Friends",
             "Xander",
-            "Shaye",
-            "Friends"
+            "Shaye"
           ],
           "dict": {
+            "Friends": {
+              "name": "Friends",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Photoshoots",
+                "Friends"
+              ],
+              "path": "./_data/albums/Photoshoots-Friends.json",
+              "no_sub_album": true
+            },
             "Xander": {
               "name": "Xander",
               "type": "album",
@@ -249,17 +296,6 @@
                 "Shaye"
               ],
               "path": "./_data/albums/Photoshoots-Shaye.json",
-              "no_sub_album": true
-            },
-            "Friends": {
-              "name": "Friends",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Photoshoots",
-                "Friends"
-              ],
-              "path": "./_data/albums/Photoshoots-Friends.json",
               "no_sub_album": true
             }
           }

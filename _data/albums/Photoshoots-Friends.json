@@ -1,6 +1,11 @@
 {
   "order": [
+    "4110_35A-3.jpg",
+    "4112_05A-3.jpg",
+    "6622_25A.jpg",
+    "6623_11A.jpg",
     "Image24.jpg",
+    "Image37.jpg",
     "R1-01190-0024.jpg",
     "ReScan2.jpg",
     "Sard2 14.jpg",
@@ -8,12 +13,47 @@
     "WStan5.jpg"
   ],
   "dict": {
+    "4110_35A-3.jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 1545,
+      "path": "./photos/Photoshoots/Friends/4110_35A-3.jpg",
+      "min_path": "./photos/Photoshoots/Friends/4110_35A-3.min.jpg"
+    },
+    "4112_05A-3.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Photoshoots/Friends/4112_05A-3.jpg",
+      "min_path": "./photos/Photoshoots/Friends/4112_05A-3.min.jpg"
+    },
+    "6622_25A.jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 1545,
+      "path": "./photos/Photoshoots/Friends/6622_25A.jpg",
+      "min_path": "./photos/Photoshoots/Friends/6622_25A.min.jpg"
+    },
+    "6623_11A.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Photoshoots/Friends/6623_11A.jpg",
+      "min_path": "./photos/Photoshoots/Friends/6623_11A.min.jpg"
+    },
     "Image24.jpg": {
       "type": "photo",
       "width": 2989,
       "height": 4561,
       "path": "./photos/Photoshoots/Friends/Image24.jpg",
       "min_path": "./photos/Photoshoots/Friends/Image24.min.jpg"
+    },
+    "Image37.jpg": {
+      "type": "photo",
+      "width": 1400,
+      "height": 928,
+      "path": "./photos/Photoshoots/Friends/Image37.jpg",
+      "min_path": "./photos/Photoshoots/Friends/Image37.min.jpg"
     },
     "R1-01190-0024.jpg": {
       "type": "photo",

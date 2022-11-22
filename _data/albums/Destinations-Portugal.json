@@ -1,0 +1,30 @@
+{
+  "order": [
+    "6622_26A.jpg",
+    "6622_27A.jpg",
+    "6622_28A.jpg"
+  ],
+  "dict": {
+    "6622_26A.jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 1545,
+      "path": "./photos/Destinations/Portugal/6622_26A.jpg",
+      "min_path": "./photos/Destinations/Portugal/6622_26A.min.jpg"
+    },
+    "6622_27A.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/Portugal/6622_27A.jpg",
+      "min_path": "./photos/Destinations/Portugal/6622_27A.min.jpg"
+    },
+    "6622_28A.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/Portugal/6622_28A.jpg",
+      "min_path": "./photos/Destinations/Portugal/6622_28A.min.jpg"
+    }
+  }
+}

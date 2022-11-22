@@ -3,6 +3,7 @@
     "000001.jpg",
     "000040-2.jpg",
     "2019-01-16-0043.jpg",
+    "4109_00.jpg",
     "72090008.jpg",
     "72090016.jpg",
     "72090033.jpg",
@@ -33,6 +34,13 @@
       "height": 2528,
       "path": "./photos/Destinations/Thailand/2019-01-16-0043.jpg",
       "min_path": "./photos/Destinations/Thailand/2019-01-16-0043.min.jpg"
+    },
+    "4109_00.jpg": {
+      "type": "photo",
+      "width": 1545,
+      "height": 1024,
+      "path": "./photos/Destinations/Thailand/4109_00.jpg",
+      "min_path": "./photos/Destinations/Thailand/4109_00.min.jpg"
     },
     "72090008.jpg": {
       "type": "photo",

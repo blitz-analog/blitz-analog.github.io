@@ -1,4 +1,46 @@
 {
-  "order": [],
-  "dict": {}
+  "order": [
+    "Image25.jpg",
+    "Image30.jpg",
+    "Image32.jpg",
+    "Image33.jpg",
+    "Image35.jpg"
+  ],
+  "dict": {
+    "Image25.jpg": {
+      "type": "photo",
+      "width": 1400,
+      "height": 914,
+      "path": "./photos/Destinations/New York/Image25.jpg",
+      "min_path": "./photos/Destinations/New York/Image25.min.jpg"
+    },
+    "Image30.jpg": {
+      "type": "photo",
+      "width": 1400,
+      "height": 930,
+      "path": "./photos/Destinations/New York/Image30.jpg",
+      "min_path": "./photos/Destinations/New York/Image30.min.jpg"
+    },
+    "Image32.jpg": {
+      "type": "photo",
+      "width": 922,
+      "height": 1400,
+      "path": "./photos/Destinations/New York/Image32.jpg",
+      "min_path": "./photos/Destinations/New York/Image32.min.jpg"
+    },
+    "Image33.jpg": {
+      "type": "photo",
+      "width": 914,
+      "height": 1400,
+      "path": "./photos/Destinations/New York/Image33.jpg",
+      "min_path": "./photos/Destinations/New York/Image33.min.jpg"
+    },
+    "Image35.jpg": {
+      "type": "photo",
+      "width": 1400,
+      "height": 932,
+      "path": "./photos/Destinations/New York/Image35.jpg",
+      "min_path": "./photos/Destinations/New York/Image35.min.jpg"
+    }
+  }
 }

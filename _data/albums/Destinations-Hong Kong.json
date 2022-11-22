@@ -4,7 +4,6 @@
     "000049200012.jpg",
     "000049210036.jpg",
     "Image13-2.jpg",
-    "zImage2.jpg",
     "zImage24.jpg",
     "zImage5.jpg"
   ],
@@ -36,13 +35,6 @@
       "height": 2933,
       "path": "./photos/Destinations/Hong Kong/Image13-2.jpg",
       "min_path": "./photos/Destinations/Hong Kong/Image13-2.min.jpg"
-    },
-    "zImage2.jpg": {
-      "type": "photo",
-      "width": 4549,
-      "height": 2990,
-      "path": "./photos/Destinations/Hong Kong/zImage2.jpg",
-      "min_path": "./photos/Destinations/Hong Kong/zImage2.min.jpg"
     },
     "zImage24.jpg": {
       "type": "photo",
